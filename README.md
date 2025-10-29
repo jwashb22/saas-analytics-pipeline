@@ -51,11 +51,9 @@ echo "DB_NAME=saas_analytics" >> .env
 
 3. **Run the pipeline**
 ```bash
-python main.py              # Generate data
-python test_load.py         # Load dimensions
-python test_load_facts.py   # Load facts
-python test_quality.py      # Validate data
+python main.py              # Generate data and load to database
 ```
+*Note: The main.py script handles data generation. Use the ETL modules directly for loading and validation.*
 
 ## Data Model
 
