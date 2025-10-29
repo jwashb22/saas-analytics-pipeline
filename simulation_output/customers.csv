@@ -1,0 +1,1001 @@
+id,company_name,signup_date,plan_tier,geography,industry,acquisition_channel,status,archetype
+1,Ultra,2023-04-15,Basic,US,saas_tech,paid_ads,churned,steady_grower
+2,Auto,2023-05-16,Basic,EU,financial_services,paid_ads,churned,failed_adoption
+3,Global Partners,2023-03-28,Enterprise,EU,marketing_agency,referral,active,seasonal_business
+4,Mobile,2023-02-05,Basic,US,saas_tech,organic_search,churned,failed_adoption
+5,Super LLC,2023-03-20,Enterprise,EU,ecommerce,paid_ads,active,steady_grower
+6,Prime Dynamics,2023-01-01,Basic,EU,saas_tech,referral,active,price_sensitive
+7,Digital,2023-05-13,Enterprise,US,other,paid_ads,churned,enterprise_pilot
+8,Dynamic,2023-04-02,Pro,US,saas_tech,partner,active,seasonal_business
+9,Beta Inc,2023-04-07,Basic,US,healthcare,direct,churned,seasonal_business
+10,Prime,2023-05-05,Enterprise,EU,financial_services,direct,churned,enterprise_pilot
+11,Agile Dynamics,2023-03-15,Enterprise,US,financial_services,referral,active,enterprise_pilot
+12,Quick,2023-06-01,Basic,US,ecommerce,paid_ads,churned,price_sensitive
+13,Auto,2023-03-07,Basic,US,saas_tech,referral,churned,price_sensitive
+14,Zenith Analytics,2023-01-08,Basic,EU,ecommerce,direct,churned,seasonal_business
+15,Ultra Partners,2023-05-21,Enterprise,US,ecommerce,paid_ads,active,price_sensitive
+16,Quick Solutions,2023-02-19,Enterprise,US,saas_tech,organic_search,active,seasonal_business
+17,Hyper Intelligence,2023-03-03,Basic,EU,saas_tech,referral,churned,enterprise_pilot
+18,Web Solutions,2023-04-17,Basic,US,saas_tech,content_marketing,active,price_sensitive
+19,Vertex Intelligence,2023-04-13,Basic,US,saas_tech,content_marketing,churned,price_sensitive
+20,Data Analytics,2023-01-04,Basic,EU,saas_tech,referral,active,price_sensitive
+21,Tech Analytics,2023-01-30,Enterprise,EU,marketing_agency,paid_ads,churned,steady_grower
+22,Prime Studio,2023-01-13,Enterprise,EU,saas_tech,organic_search,churned,enterprise_pilot
+23,Beta Insights,2023-02-19,Basic,EU,healthcare,organic_search,churned,enterprise_pilot
+24,Summit,2023-04-12,Enterprise,US,marketing_agency,referral,active,enterprise_pilot
+25,Nova,2023-01-26,Enterprise,EU,financial_services,direct,churned,seasonal_business
+26,Digital Partners,2023-01-01,Basic,US,saas_tech,referral,churned,price_sensitive
+27,Quantum,2023-01-21,Basic,US,ecommerce,direct,churned,failed_adoption
+28,Global Solutions,2023-03-09,Basic,EU,healthcare,organic_search,churned,failed_adoption
+29,Rapid Analytics,2023-02-03,Basic,EU,marketing_agency,direct,churned,failed_adoption
+30,Elite,2023-01-23,Enterprise,US,marketing_agency,organic_search,active,price_sensitive
+31,Mega Hub,2023-06-02,Basic,EU,saas_tech,organic_search,churned,price_sensitive
+32,Dynamic,2023-03-06,Basic,EU,saas_tech,paid_ads,churned,failed_adoption
+33,Data Ventures,2023-06-08,Enterprise,EU,ecommerce,referral,active,steady_grower
+34,Agile Labs,2023-03-13,Enterprise,US,ecommerce,partner,active,price_sensitive
+35,Smart Corp,2023-04-11,Enterprise,US,financial_services,referral,active,enterprise_pilot
+36,Beta Data,2023-01-26,Enterprise,US,saas_tech,partner,active,seasonal_business
+37,Ultra,2023-05-09,Basic,US,manufacturing,organic_search,active,seasonal_business
+38,Gamma Intelligence,2023-06-04,Pro,EU,ecommerce,referral,churned,seasonal_business
+39,Hyper Systems,2023-04-03,Enterprise,EU,manufacturing,organic_search,churned,seasonal_business
+40,Prime Dynamics,2023-06-12,Enterprise,EU,ecommerce,referral,churned,enterprise_pilot
+41,Fast,2023-01-19,Enterprise,EU,saas_tech,paid_ads,active,enterprise_pilot
+42,Data,2023-04-03,Pro,EU,saas_tech,organic_search,churned,seasonal_business
+43,Vertex Analytics,2023-05-12,Enterprise,EU,financial_services,paid_ads,churned,seasonal_business
+44,Hyper Services,2023-05-03,Basic,US,financial_services,organic_search,active,failed_adoption
+45,Tech Insights,2023-04-12,Enterprise,EU,other,paid_ads,active,enterprise_pilot
+46,Swift Labs,2023-03-08,Basic,US,ecommerce,paid_ads,churned,failed_adoption
+47,Mega Insights,2023-03-06,Basic,US,manufacturing,paid_ads,churned,failed_adoption
+48,Apex Insights,2023-06-27,Basic,EU,financial_services,paid_ads,active,price_sensitive
+49,Tech Partners,2023-06-02,Basic,US,financial_services,referral,churned,price_sensitive
+50,Tech Group,2023-04-27,Basic,US,saas_tech,partner,churned,seasonal_business
+51,Tech Enterprises,2023-03-27,Enterprise,US,healthcare,organic_search,active,steady_grower
+52,Dynamic Services,2023-03-18,Enterprise,EU,saas_tech,organic_search,active,steady_grower
+53,Summit Technologies,2023-05-08,Basic,EU,manufacturing,referral,churned,price_sensitive
+54,Apex Group,2023-05-15,Basic,EU,ecommerce,paid_ads,churned,price_sensitive
+55,Prime Partners,2023-04-29,Enterprise,EU,financial_services,organic_search,churned,seasonal_business
+56,Agile Analytics,2023-06-28,Enterprise,EU,ecommerce,paid_ads,active,enterprise_pilot
+57,Gamma,2023-01-02,Enterprise,US,marketing_agency,partner,active,price_sensitive
+58,Prime Innovations,2023-02-17,Enterprise,US,ecommerce,paid_ads,active,steady_grower
+59,Rapid Consulting,2023-03-10,Enterprise,US,marketing_agency,paid_ads,churned,price_sensitive
+60,Ultra Services,2023-06-07,Enterprise,US,financial_services,direct,active,steady_grower
+61,Swift Dynamics,2023-04-22,Enterprise,US,saas_tech,paid_ads,active,steady_grower
+62,Super Innovations,2023-05-22,Pro,EU,manufacturing,paid_ads,churned,seasonal_business
+63,Web Partners,2023-03-19,Enterprise,US,financial_services,partner,churned,seasonal_business
+64,Nova Data,2023-04-29,Enterprise,US,marketing_agency,direct,churned,seasonal_business
+65,Cloud Consulting,2023-02-17,Enterprise,EU,ecommerce,paid_ads,active,steady_grower
+66,Ultra Hub,2023-03-26,Basic,US,marketing_agency,organic_search,churned,failed_adoption
+67,Rapid,2023-06-21,Pro,US,healthcare,paid_ads,active,steady_grower
+68,Quantum,2023-06-11,Basic,US,saas_tech,organic_search,active,price_sensitive
+69,Web Technologies,2023-05-18,Basic,EU,financial_services,content_marketing,churned,failed_adoption
+70,Vertex Studio,2023-03-19,Enterprise,US,ecommerce,partner,active,steady_grower
+71,Auto,2023-05-10,Basic,US,other,referral,churned,price_sensitive
+72,Fast,2023-01-16,Enterprise,EU,manufacturing,organic_search,active,steady_grower
+73,Ultra Works,2023-06-03,Enterprise,US,marketing_agency,organic_search,churned,price_sensitive
+74,Fusion,2023-04-21,Enterprise,US,financial_services,partner,active,steady_grower
+75,Prime,2023-04-29,Basic,US,financial_services,paid_ads,churned,failed_adoption
+76,Dynamic Labs,2023-06-21,Enterprise,US,other,content_marketing,churned,seasonal_business
+77,Mega Innovations,2023-01-22,Basic,EU,saas_tech,organic_search,active,price_sensitive
+78,Dynamic Services,2023-06-10,Enterprise,US,financial_services,organic_search,churned,enterprise_pilot
+79,Web Associates,2023-01-25,Basic,US,manufacturing,partner,churned,price_sensitive
+80,Vertex Innovations,2023-04-20,Basic,EU,ecommerce,referral,churned,enterprise_pilot
+81,Global Insights,2023-02-14,Enterprise,US,manufacturing,direct,churned,seasonal_business
+82,Meta Studio,2023-03-06,Basic,EU,financial_services,referral,active,price_sensitive
+83,Apex Corp,2023-02-02,Enterprise,US,ecommerce,direct,active,price_sensitive
+84,Nexus,2023-01-19,Enterprise,EU,ecommerce,paid_ads,churned,steady_grower
+85,Rapid Analytics,2023-05-09,Enterprise,US,saas_tech,direct,active,enterprise_pilot
+86,Auto Data,2023-02-22,Basic,US,financial_services,paid_ads,churned,price_sensitive
+87,Smart Data,2023-05-12,Pro,US,other,paid_ads,churned,seasonal_business
+88,Summit,2023-05-27,Enterprise,US,manufacturing,organic_search,active,steady_grower
+89,Mega Enterprises,2023-06-21,Enterprise,EU,ecommerce,organic_search,active,steady_grower
+90,Smart,2023-03-07,Enterprise,EU,marketing_agency,organic_search,churned,price_sensitive
+91,Web Analytics,2023-01-11,Basic,EU,ecommerce,content_marketing,churned,failed_adoption
+92,Meta Analytics,2023-01-22,Enterprise,US,ecommerce,content_marketing,active,seasonal_business
+93,Cyber Inc,2023-05-29,Enterprise,US,saas_tech,paid_ads,churned,seasonal_business
+94,Global Labs,2023-02-02,Pro,US,financial_services,direct,churned,seasonal_business
+95,Mobile Systems,2023-03-23,Enterprise,US,marketing_agency,organic_search,active,steady_grower
+96,Tech Partners,2023-06-06,Basic,US,financial_services,organic_search,active,price_sensitive
+97,Quantum,2023-04-22,Basic,EU,saas_tech,organic_search,churned,failed_adoption
+98,Super Labs,2023-03-30,Enterprise,US,saas_tech,partner,active,seasonal_business
+99,Digital,2023-02-05,Basic,US,financial_services,organic_search,churned,price_sensitive
+100,Agile,2023-02-06,Enterprise,US,saas_tech,referral,active,steady_grower
+101,Nova,2023-01-18,Enterprise,US,ecommerce,referral,active,enterprise_pilot
+102,Meta Studio,2023-04-28,Enterprise,EU,saas_tech,organic_search,churned,enterprise_pilot
+103,Digital,2023-01-16,Basic,EU,saas_tech,paid_ads,churned,failed_adoption
+104,Tech Analytics,2023-06-19,Pro,US,ecommerce,paid_ads,active,seasonal_business
+105,Quick,2023-03-12,Enterprise,US,ecommerce,paid_ads,active,seasonal_business
+106,Zenith,2023-05-11,Pro,EU,healthcare,organic_search,active,steady_grower
+107,Super Consulting,2023-01-11,Enterprise,US,ecommerce,paid_ads,active,price_sensitive
+108,Meta,2023-03-17,Enterprise,US,saas_tech,organic_search,active,enterprise_pilot
+109,Mega Hub,2023-06-21,Basic,EU,ecommerce,direct,churned,failed_adoption
+110,Beta,2023-02-23,Basic,US,manufacturing,paid_ads,churned,seasonal_business
+111,Cyber Services,2023-06-10,Enterprise,US,ecommerce,direct,active,price_sensitive
+112,Vertex Systems,2023-06-02,Basic,EU,saas_tech,organic_search,churned,price_sensitive
+113,Alpha Enterprises,2023-03-18,Basic,EU,ecommerce,paid_ads,churned,seasonal_business
+114,Data Data,2023-05-02,Enterprise,EU,financial_services,paid_ads,active,steady_grower
+115,Web,2023-05-09,Pro,US,other,organic_search,churned,seasonal_business
+116,Super LLC,2023-06-14,Enterprise,US,other,paid_ads,active,seasonal_business
+117,Prime Systems,2023-02-25,Enterprise,US,financial_services,organic_search,active,steady_grower
+118,Smart Works,2023-03-11,Basic,EU,saas_tech,paid_ads,churned,price_sensitive
+119,Nova,2023-02-12,Basic,EU,financial_services,paid_ads,churned,price_sensitive
+120,Cloud Inc,2023-02-15,Enterprise,US,ecommerce,organic_search,churned,steady_grower
+121,Dynamic Innovations,2023-05-17,Enterprise,US,marketing_agency,paid_ads,churned,enterprise_pilot
+122,Gamma,2023-05-29,Basic,US,healthcare,direct,churned,enterprise_pilot
+123,Mobile Insights,2023-01-10,Enterprise,US,ecommerce,direct,churned,price_sensitive
+124,Auto Group,2023-01-13,Enterprise,EU,marketing_agency,direct,active,seasonal_business
+125,Cloud Systems,2023-06-17,Basic,US,ecommerce,paid_ads,churned,failed_adoption
+126,Global Works,2023-02-12,Basic,EU,marketing_agency,organic_search,churned,failed_adoption
+127,Tech,2023-05-19,Basic,EU,marketing_agency,paid_ads,active,failed_adoption
+128,Cloud,2023-02-05,Basic,EU,healthcare,partner,churned,price_sensitive
+129,Tech,2023-06-17,Basic,US,financial_services,organic_search,churned,price_sensitive
+130,Digital Services,2023-02-26,Enterprise,US,healthcare,partner,active,steady_grower
+131,Dynamic,2023-03-27,Basic,EU,ecommerce,organic_search,churned,failed_adoption
+132,Quantum,2023-05-21,Pro,EU,ecommerce,paid_ads,churned,steady_grower
+133,Summit,2023-06-28,Basic,EU,ecommerce,organic_search,churned,failed_adoption
+134,Beta Labs,2023-03-14,Basic,EU,healthcare,organic_search,active,enterprise_pilot
+135,Dynamic Ltd,2023-06-25,Basic,US,other,paid_ads,churned,price_sensitive
+136,Delta Enterprises,2023-05-23,Pro,US,other,partner,active,seasonal_business
+137,Tech Data,2023-01-27,Basic,US,financial_services,referral,active,price_sensitive
+138,Hyper,2023-04-19,Enterprise,US,ecommerce,paid_ads,churned,price_sensitive
+139,Tech Intelligence,2023-02-13,Enterprise,US,ecommerce,organic_search,active,seasonal_business
+140,Cloud Dynamics,2023-05-17,Enterprise,US,ecommerce,paid_ads,active,steady_grower
+141,Acme,2023-04-21,Pro,EU,ecommerce,partner,active,seasonal_business
+142,Hyper Inc,2023-02-05,Enterprise,US,ecommerce,direct,churned,steady_grower
+143,Summit,2023-01-11,Enterprise,EU,marketing_agency,direct,active,steady_grower
+144,Super,2023-03-23,Enterprise,US,ecommerce,organic_search,active,price_sensitive
+145,Cloud Group,2023-02-20,Basic,US,saas_tech,paid_ads,churned,failed_adoption
+146,Dynamic,2023-04-23,Pro,US,other,direct,active,steady_grower
+147,Web Insights,2023-05-26,Enterprise,EU,manufacturing,organic_search,active,steady_grower
+148,Zenith Solutions,2023-05-29,Enterprise,US,marketing_agency,organic_search,active,steady_grower
+149,Cyber Inc,2023-01-02,Enterprise,EU,marketing_agency,referral,active,seasonal_business
+150,Super Ltd,2023-02-17,Enterprise,US,financial_services,paid_ads,active,steady_grower
+151,Delta Hub,2023-06-06,Enterprise,EU,manufacturing,paid_ads,active,steady_grower
+152,Summit Ventures,2023-04-01,Basic,EU,marketing_agency,direct,churned,failed_adoption
+153,Auto Ventures,2023-03-07,Enterprise,US,saas_tech,direct,active,steady_grower
+154,Meta Intelligence,2023-05-16,Basic,US,saas_tech,organic_search,churned,steady_grower
+155,Digital Insights,2023-06-24,Enterprise,US,other,organic_search,active,steady_grower
+156,Zenith Labs,2023-01-26,Enterprise,EU,saas_tech,content_marketing,active,seasonal_business
+157,Pioneer,2023-04-17,Basic,US,financial_services,referral,churned,price_sensitive
+158,Data,2023-04-19,Enterprise,US,marketing_agency,content_marketing,churned,seasonal_business
+159,Delta Studio,2023-04-21,Basic,EU,manufacturing,organic_search,churned,failed_adoption
+160,Ultra,2023-04-06,Basic,EU,healthcare,organic_search,active,seasonal_business
+161,Super Enterprises,2023-01-27,Enterprise,US,ecommerce,direct,active,price_sensitive
+162,Vertex Corp,2023-05-08,Enterprise,US,manufacturing,paid_ads,active,steady_grower
+163,Web Corp,2023-05-10,Enterprise,EU,manufacturing,paid_ads,active,steady_grower
+164,Mega Enterprises,2023-05-13,Pro,US,financial_services,paid_ads,active,seasonal_business
+165,Rapid,2023-06-23,Enterprise,US,marketing_agency,partner,active,seasonal_business
+166,Apex Solutions,2023-06-10,Enterprise,EU,ecommerce,organic_search,active,enterprise_pilot
+167,Swift Group,2023-01-11,Basic,EU,financial_services,organic_search,churned,price_sensitive
+168,Zenith Corp,2023-05-18,Basic,US,saas_tech,referral,churned,price_sensitive
+169,Data Ltd,2023-04-30,Enterprise,EU,ecommerce,paid_ads,active,steady_grower
+170,Gamma Ventures,2023-06-01,Enterprise,US,saas_tech,partner,churned,seasonal_business
+171,Ultra Inc,2023-04-06,Enterprise,US,ecommerce,organic_search,active,price_sensitive
+172,Acme,2023-05-05,Enterprise,EU,ecommerce,organic_search,active,steady_grower
+173,Super Enterprises,2023-06-24,Enterprise,US,ecommerce,content_marketing,churned,seasonal_business
+174,Data Enterprises,2023-01-20,Basic,US,financial_services,referral,churned,price_sensitive
+175,Nova Systems,2023-05-31,Basic,EU,healthcare,paid_ads,churned,failed_adoption
+176,Tech,2023-04-30,Enterprise,US,ecommerce,organic_search,active,steady_grower
+177,Summit Intelligence,2023-02-15,Enterprise,EU,ecommerce,organic_search,active,steady_grower
+178,Hyper Associates,2023-04-11,Basic,US,financial_services,partner,churned,failed_adoption
+179,Beta Corp,2023-02-25,Enterprise,US,ecommerce,partner,active,seasonal_business
+180,Rapid,2023-04-04,Enterprise,US,manufacturing,partner,active,enterprise_pilot
+181,Apex,2023-03-18,Enterprise,US,marketing_agency,organic_search,active,seasonal_business
+182,Ultra,2023-03-25,Basic,EU,ecommerce,paid_ads,churned,failed_adoption
+183,Alpha,2023-03-28,Enterprise,EU,manufacturing,paid_ads,active,steady_grower
+184,Summit,2023-06-07,Enterprise,EU,manufacturing,partner,active,steady_grower
+185,Dynamic,2023-06-27,Enterprise,US,financial_services,direct,active,enterprise_pilot
+186,Hyper Consulting,2023-03-15,Pro,US,other,organic_search,churned,seasonal_business
+187,Delta Corp,2023-03-05,Enterprise,EU,ecommerce,referral,active,steady_grower
+188,Hyper,2023-02-12,Enterprise,US,manufacturing,organic_search,active,seasonal_business
+189,Auto Data,2023-03-08,Enterprise,EU,marketing_agency,organic_search,churned,price_sensitive
+190,Rapid,2023-03-25,Basic,EU,financial_services,paid_ads,churned,failed_adoption
+191,Swift Ventures,2023-05-07,Enterprise,US,ecommerce,direct,active,steady_grower
+192,Tech,2023-01-19,Enterprise,US,marketing_agency,organic_search,churned,steady_grower
+193,Beta Corp,2023-01-25,Enterprise,US,financial_services,paid_ads,active,steady_grower
+194,Beta,2023-03-03,Pro,US,ecommerce,referral,churned,seasonal_business
+195,Alpha Ltd,2023-03-19,Basic,US,financial_services,direct,churned,failed_adoption
+196,Mobile Intelligence,2023-06-12,Pro,US,ecommerce,partner,churned,seasonal_business
+197,Nova Corp,2023-05-17,Basic,EU,saas_tech,organic_search,active,price_sensitive
+198,Auto Solutions,2023-05-18,Enterprise,US,manufacturing,direct,active,steady_grower
+199,Super Analytics,2023-03-29,Enterprise,EU,ecommerce,paid_ads,active,steady_grower
+200,Swift Associates,2023-02-06,Basic,US,financial_services,organic_search,active,price_sensitive
+201,Delta Solutions,2023-01-10,Basic,US,saas_tech,referral,churned,failed_adoption
+202,Digital LLC,2023-05-23,Enterprise,US,ecommerce,organic_search,churned,seasonal_business
+203,Delta Systems,2023-06-01,Basic,EU,ecommerce,paid_ads,churned,failed_adoption
+204,Digital,2023-04-02,Enterprise,EU,financial_services,partner,active,enterprise_pilot
+205,Prime Works,2023-01-21,Enterprise,US,saas_tech,content_marketing,active,steady_grower
+206,Mega Insights,2023-05-22,Pro,US,healthcare,paid_ads,active,steady_grower
+207,Smart Solutions,2023-06-16,Basic,EU,healthcare,content_marketing,churned,steady_grower
+208,Auto Partners,2023-05-05,Pro,US,financial_services,paid_ads,active,seasonal_business
+209,Alpha Technologies,2023-04-29,Basic,EU,saas_tech,content_marketing,churned,enterprise_pilot
+210,Zenith,2023-01-19,Basic,EU,ecommerce,paid_ads,churned,failed_adoption
+211,Digital Solutions,2023-03-17,Basic,US,manufacturing,referral,churned,price_sensitive
+212,Nova,2023-06-02,Enterprise,US,saas_tech,partner,active,steady_grower
+213,Elite Intelligence,2023-02-06,Basic,EU,financial_services,referral,churned,steady_grower
+214,Apex,2023-03-02,Pro,US,ecommerce,referral,churned,seasonal_business
+215,Dynamic,2023-01-07,Enterprise,EU,ecommerce,organic_search,active,steady_grower
+216,Digital,2023-04-17,Basic,EU,healthcare,organic_search,active,seasonal_business
+217,Nova Innovations,2023-01-02,Basic,US,other,direct,churned,price_sensitive
+218,Beta Analytics,2023-01-17,Enterprise,EU,marketing_agency,direct,churned,seasonal_business
+219,Delta,2023-05-21,Basic,US,saas_tech,referral,active,price_sensitive
+220,Fast,2023-05-29,Basic,EU,saas_tech,referral,active,price_sensitive
+221,Summit Corp,2023-04-07,Enterprise,US,ecommerce,paid_ads,active,enterprise_pilot
+222,Nexus,2023-01-31,Enterprise,US,manufacturing,organic_search,churned,enterprise_pilot
+223,Ultra Systems,2023-01-29,Enterprise,EU,ecommerce,direct,active,steady_grower
+224,Mobile Consulting,2023-01-08,Basic,US,financial_services,paid_ads,active,price_sensitive
+225,Agile Insights,2023-04-18,Enterprise,US,manufacturing,referral,churned,enterprise_pilot
+226,Swift LLC,2023-05-15,Basic,EU,healthcare,partner,churned,enterprise_pilot
+227,Smart,2023-06-13,Enterprise,EU,saas_tech,organic_search,active,seasonal_business
+228,Prime Works,2023-04-03,Basic,EU,ecommerce,partner,churned,price_sensitive
+229,Meta Corp,2023-03-04,Enterprise,US,ecommerce,content_marketing,active,steady_grower
+230,Swift Associates,2023-06-29,Basic,US,saas_tech,organic_search,active,price_sensitive
+231,Rapid,2023-04-14,Enterprise,US,saas_tech,paid_ads,active,enterprise_pilot
+232,Digital Solutions,2023-01-19,Enterprise,EU,marketing_agency,direct,churned,steady_grower
+233,Elite Solutions,2023-02-07,Enterprise,EU,manufacturing,referral,active,seasonal_business
+234,Hyper,2023-04-23,Basic,EU,saas_tech,direct,churned,failed_adoption
+235,Swift,2023-01-09,Enterprise,EU,financial_services,partner,churned,steady_grower
+236,Swift Ltd,2023-04-23,Enterprise,US,ecommerce,partner,churned,price_sensitive
+237,Zenith Studio,2023-01-23,Enterprise,US,financial_services,partner,active,seasonal_business
+238,Web Solutions,2023-02-13,Basic,US,financial_services,direct,active,price_sensitive
+239,Gamma Associates,2023-03-27,Enterprise,US,ecommerce,organic_search,churned,enterprise_pilot
+240,Meta Systems,2023-06-25,Enterprise,EU,manufacturing,partner,churned,enterprise_pilot
+241,Cloud Works,2023-04-01,Enterprise,US,ecommerce,paid_ads,churned,enterprise_pilot
+242,Fast Technologies,2023-06-17,Enterprise,US,ecommerce,paid_ads,active,steady_grower
+243,Alpha,2023-01-07,Enterprise,US,financial_services,organic_search,active,steady_grower
+244,Tech,2023-01-06,Basic,US,healthcare,paid_ads,churned,failed_adoption
+245,Cyber LLC,2023-05-08,Basic,US,financial_services,partner,churned,seasonal_business
+246,Nova Dynamics,2023-01-03,Enterprise,EU,marketing_agency,content_marketing,active,seasonal_business
+247,Vertex,2023-01-02,Pro,EU,marketing_agency,paid_ads,churned,seasonal_business
+248,Rapid Labs,2023-01-20,Enterprise,US,ecommerce,organic_search,churned,enterprise_pilot
+249,Cloud Studio,2023-01-15,Enterprise,US,other,paid_ads,churned,seasonal_business
+250,Apex Enterprises,2023-02-23,Enterprise,US,financial_services,partner,churned,steady_grower
+251,Agile,2023-02-01,Enterprise,US,ecommerce,organic_search,active,seasonal_business
+252,Dynamic Dynamics,2023-02-10,Enterprise,US,ecommerce,direct,churned,steady_grower
+253,Global Analytics,2023-06-19,Pro,US,saas_tech,referral,churned,seasonal_business
+254,Nova Dynamics,2023-02-28,Basic,US,saas_tech,paid_ads,churned,failed_adoption
+255,Web Dynamics,2023-04-13,Enterprise,EU,saas_tech,organic_search,active,steady_grower
+256,Alpha Data,2023-02-06,Basic,US,financial_services,referral,active,failed_adoption
+257,Dynamic,2023-02-18,Enterprise,US,manufacturing,direct,churned,enterprise_pilot
+258,Agile,2023-02-09,Enterprise,US,saas_tech,paid_ads,active,steady_grower
+259,Summit Corp,2023-05-18,Enterprise,EU,manufacturing,organic_search,active,enterprise_pilot
+260,Nova Technologies,2023-03-24,Enterprise,US,ecommerce,referral,active,price_sensitive
+261,Digital Labs,2023-06-20,Basic,US,saas_tech,referral,active,failed_adoption
+262,Super Analytics,2023-04-29,Basic,EU,manufacturing,paid_ads,churned,price_sensitive
+263,Mobile Ventures,2023-03-18,Enterprise,EU,marketing_agency,paid_ads,active,price_sensitive
+264,Prime Associates,2023-05-14,Basic,US,healthcare,organic_search,churned,enterprise_pilot
+265,Ultra,2023-05-26,Enterprise,US,marketing_agency,partner,active,steady_grower
+266,Beta Insights,2023-03-08,Basic,EU,marketing_agency,organic_search,churned,failed_adoption
+267,Elite Inc,2023-01-13,Enterprise,US,financial_services,partner,churned,seasonal_business
+268,Summit Technologies,2023-02-19,Basic,EU,healthcare,organic_search,churned,enterprise_pilot
+269,Nova,2023-01-04,Enterprise,US,manufacturing,organic_search,active,seasonal_business
+270,Mega Partners,2023-06-04,Basic,EU,ecommerce,referral,churned,price_sensitive
+271,Cyber Partners,2023-04-08,Enterprise,EU,marketing_agency,organic_search,churned,price_sensitive
+272,Pioneer,2023-04-16,Enterprise,US,financial_services,paid_ads,active,steady_grower
+273,Hyper Insights,2023-03-14,Enterprise,EU,ecommerce,organic_search,active,steady_grower
+274,Vertex Ventures,2023-04-22,Basic,EU,saas_tech,content_marketing,churned,enterprise_pilot
+275,Smart,2023-04-14,Enterprise,US,marketing_agency,referral,active,steady_grower
+276,Meta Inc,2023-04-01,Pro,US,healthcare,organic_search,churned,seasonal_business
+277,Digital Insights,2023-06-03,Enterprise,US,ecommerce,paid_ads,active,steady_grower
+278,Data,2023-06-08,Enterprise,EU,ecommerce,content_marketing,active,enterprise_pilot
+279,Quick Inc,2023-05-11,Basic,EU,healthcare,paid_ads,active,steady_grower
+280,Auto Dynamics,2023-01-14,Basic,EU,healthcare,content_marketing,churned,price_sensitive
+281,Smart Studio,2023-01-12,Basic,US,manufacturing,organic_search,churned,seasonal_business
+282,Zenith Solutions,2023-04-15,Enterprise,US,marketing_agency,organic_search,churned,enterprise_pilot
+283,Data,2023-04-28,Enterprise,US,marketing_agency,paid_ads,churned,enterprise_pilot
+284,Cyber Insights,2023-01-15,Basic,US,marketing_agency,paid_ads,churned,failed_adoption
+285,Summit Intelligence,2023-05-02,Enterprise,EU,other,partner,active,steady_grower
+286,Meta,2023-06-19,Enterprise,EU,saas_tech,organic_search,active,steady_grower
+287,Vertex Ltd,2023-02-06,Enterprise,EU,financial_services,direct,active,steady_grower
+288,Quick Hub,2023-02-13,Enterprise,EU,manufacturing,organic_search,active,enterprise_pilot
+289,Summit Hub,2023-01-21,Enterprise,US,saas_tech,referral,active,steady_grower
+290,Vertex Group,2023-05-29,Pro,US,ecommerce,referral,active,seasonal_business
+291,Mobile Solutions,2023-03-21,Enterprise,EU,ecommerce,organic_search,active,steady_grower
+292,Vertex Intelligence,2023-02-11,Basic,US,healthcare,referral,churned,seasonal_business
+293,Ultra Intelligence,2023-02-17,Enterprise,US,saas_tech,partner,churned,seasonal_business
+294,Elite Enterprises,2023-06-09,Pro,US,healthcare,organic_search,active,steady_grower
+295,Cloud Works,2023-02-04,Enterprise,EU,ecommerce,partner,active,steady_grower
+296,Agile Services,2023-03-23,Enterprise,US,other,paid_ads,churned,seasonal_business
+297,Gamma Services,2023-05-17,Enterprise,EU,other,organic_search,active,enterprise_pilot
+298,Quantum,2023-01-01,Enterprise,US,ecommerce,organic_search,active,steady_grower
+299,Delta Enterprises,2023-03-19,Enterprise,US,ecommerce,organic_search,active,enterprise_pilot
+300,Alpha Systems,2023-04-14,Pro,US,saas_tech,referral,churned,seasonal_business
+301,Mobile Partners,2023-03-04,Basic,US,manufacturing,paid_ads,churned,seasonal_business
+302,Zenith,2023-01-03,Basic,US,other,direct,churned,enterprise_pilot
+303,Nexus,2023-04-04,Pro,EU,saas_tech,organic_search,active,seasonal_business
+304,Smart Hub,2023-01-29,Enterprise,US,ecommerce,organic_search,active,steady_grower
+305,Super Enterprises,2023-02-12,Enterprise,EU,marketing_agency,content_marketing,active,seasonal_business
+306,Meta,2023-01-13,Enterprise,US,marketing_agency,direct,churned,enterprise_pilot
+307,Data,2023-05-30,Enterprise,US,ecommerce,direct,active,steady_grower
+308,Prime Dynamics,2023-05-04,Enterprise,US,ecommerce,direct,churned,enterprise_pilot
+309,Summit Solutions,2023-04-17,Enterprise,EU,ecommerce,referral,active,steady_grower
+310,Gamma,2023-01-25,Enterprise,EU,ecommerce,organic_search,churned,seasonal_business
+311,Meta Studio,2023-01-12,Enterprise,US,other,direct,active,seasonal_business
+312,Cyber Technologies,2023-05-13,Enterprise,US,manufacturing,direct,active,steady_grower
+313,Apex Group,2023-06-20,Basic,EU,saas_tech,partner,churned,price_sensitive
+314,Delta Labs,2023-03-31,Enterprise,EU,saas_tech,direct,active,enterprise_pilot
+315,Gamma Group,2023-02-15,Basic,US,saas_tech,referral,churned,failed_adoption
+316,Elite Solutions,2023-02-03,Enterprise,EU,healthcare,referral,churned,seasonal_business
+317,Fast Systems,2023-02-07,Enterprise,EU,ecommerce,paid_ads,churned,price_sensitive
+318,Alpha Hub,2023-02-26,Enterprise,US,ecommerce,referral,active,seasonal_business
+319,Dynamic Inc,2023-06-11,Enterprise,EU,ecommerce,organic_search,active,steady_grower
+320,Agile Group,2023-05-10,Enterprise,US,ecommerce,direct,active,steady_grower
+321,Prime,2023-03-12,Basic,US,saas_tech,referral,churned,enterprise_pilot
+322,Global Studio,2023-01-16,Basic,US,manufacturing,organic_search,churned,price_sensitive
+323,Mobile Consulting,2023-01-05,Enterprise,US,marketing_agency,paid_ads,churned,seasonal_business
+324,Swift Enterprises,2023-03-04,Pro,US,healthcare,referral,churned,steady_grower
+325,Web Technologies,2023-01-09,Enterprise,US,saas_tech,direct,churned,steady_grower
+326,Global Studio,2023-03-04,Enterprise,EU,financial_services,organic_search,active,seasonal_business
+327,Apex Services,2023-04-25,Pro,EU,ecommerce,referral,churned,seasonal_business
+328,Dynamic,2023-01-01,Enterprise,US,ecommerce,referral,churned,seasonal_business
+329,Smart Dynamics,2023-05-04,Enterprise,US,marketing_agency,direct,active,enterprise_pilot
+330,Smart Ltd,2023-01-29,Basic,US,financial_services,direct,churned,price_sensitive
+331,Ultra,2023-05-21,Enterprise,US,marketing_agency,direct,active,seasonal_business
+332,Ultra,2023-01-26,Basic,EU,saas_tech,organic_search,churned,enterprise_pilot
+333,Mobile Systems,2023-04-11,Enterprise,EU,manufacturing,paid_ads,active,enterprise_pilot
+334,Fusion,2023-01-02,Basic,EU,financial_services,partner,active,price_sensitive
+335,Alpha Associates,2023-06-21,Enterprise,US,manufacturing,paid_ads,active,seasonal_business
+336,Elite Ventures,2023-02-24,Basic,EU,financial_services,referral,churned,price_sensitive
+337,Apex,2023-06-23,Basic,EU,saas_tech,paid_ads,active,price_sensitive
+338,Mobile Hub,2023-05-01,Pro,US,ecommerce,paid_ads,active,seasonal_business
+339,Rapid Corp,2023-05-02,Enterprise,US,ecommerce,organic_search,churned,price_sensitive
+340,Cyber Associates,2023-01-24,Basic,US,saas_tech,direct,churned,seasonal_business
+341,Swift Innovations,2023-01-24,Enterprise,US,ecommerce,paid_ads,churned,price_sensitive
+342,Prime Data,2023-05-07,Enterprise,EU,marketing_agency,paid_ads,churned,enterprise_pilot
+343,Meta,2023-06-08,Enterprise,US,marketing_agency,organic_search,churned,seasonal_business
+344,Rapid Group,2023-01-17,Basic,US,manufacturing,content_marketing,churned,steady_grower
+345,Tech,2023-04-28,Enterprise,EU,marketing_agency,referral,active,steady_grower
+346,Summit Intelligence,2023-05-11,Pro,EU,financial_services,content_marketing,active,seasonal_business
+347,Meta Systems,2023-06-24,Pro,US,ecommerce,partner,churned,seasonal_business
+348,Super Intelligence,2023-03-30,Enterprise,US,saas_tech,organic_search,active,steady_grower
+349,Meta Intelligence,2023-02-06,Enterprise,US,saas_tech,organic_search,active,steady_grower
+350,Ultra Ventures,2023-03-24,Basic,US,financial_services,organic_search,churned,failed_adoption
+351,Tech Associates,2023-01-30,Enterprise,US,financial_services,organic_search,active,steady_grower
+352,Summit Enterprises,2023-04-29,Enterprise,EU,financial_services,referral,active,steady_grower
+353,Super,2023-05-11,Basic,EU,healthcare,paid_ads,active,price_sensitive
+354,Rapid Works,2023-04-19,Basic,EU,financial_services,content_marketing,churned,steady_grower
+355,Meta,2023-05-01,Enterprise,EU,manufacturing,paid_ads,active,enterprise_pilot
+356,Agile Data,2023-06-18,Enterprise,US,financial_services,paid_ads,active,steady_grower
+357,Quick Corp,2023-05-15,Enterprise,US,marketing_agency,content_marketing,churned,enterprise_pilot
+358,Tech Works,2023-05-22,Basic,US,saas_tech,organic_search,churned,price_sensitive
+359,Cyber Ventures,2023-03-10,Enterprise,EU,ecommerce,direct,churned,enterprise_pilot
+360,Swift Systems,2023-02-01,Basic,US,financial_services,organic_search,active,price_sensitive
+361,Ultra Corp,2023-06-27,Enterprise,US,marketing_agency,paid_ads,active,steady_grower
+362,Meta,2023-06-27,Enterprise,US,manufacturing,organic_search,active,steady_grower
+363,Auto Labs,2023-02-02,Enterprise,US,ecommerce,paid_ads,active,steady_grower
+364,Ultra Ventures,2023-03-13,Enterprise,EU,ecommerce,direct,churned,enterprise_pilot
+365,Summit Hub,2023-01-16,Pro,EU,healthcare,paid_ads,active,steady_grower
+366,Mega Innovations,2023-01-29,Enterprise,US,ecommerce,paid_ads,active,enterprise_pilot
+367,Pioneer,2023-05-11,Enterprise,EU,marketing_agency,referral,active,steady_grower
+368,Apex,2023-01-31,Enterprise,EU,ecommerce,organic_search,active,steady_grower
+369,Gamma Consulting,2023-05-27,Enterprise,US,ecommerce,referral,active,steady_grower
+370,Fusion,2023-01-24,Basic,EU,ecommerce,referral,churned,seasonal_business
+371,Dynamic Inc,2023-02-17,Enterprise,EU,saas_tech,referral,active,seasonal_business
+372,Dynamic Hub,2023-03-09,Pro,US,saas_tech,paid_ads,churned,seasonal_business
+373,Mega Dynamics,2023-06-18,Enterprise,US,ecommerce,paid_ads,active,steady_grower
+374,Elite Innovations,2023-02-15,Basic,EU,saas_tech,partner,active,price_sensitive
+375,Beta,2023-01-19,Basic,US,saas_tech,direct,churned,price_sensitive
+376,Dynamic LLC,2023-02-28,Basic,US,marketing_agency,organic_search,churned,failed_adoption
+377,Quick,2023-01-25,Basic,US,financial_services,paid_ads,active,price_sensitive
+378,Swift,2023-01-12,Basic,EU,ecommerce,referral,churned,steady_grower
+379,Hyper Services,2023-03-30,Enterprise,EU,ecommerce,organic_search,active,steady_grower
+380,Data Ltd,2023-05-21,Basic,US,financial_services,organic_search,churned,price_sensitive
+381,Mega Solutions,2023-03-27,Enterprise,US,ecommerce,organic_search,active,price_sensitive
+382,Agile Systems,2023-05-19,Basic,US,healthcare,organic_search,churned,price_sensitive
+383,Summit Dynamics,2023-01-29,Enterprise,EU,saas_tech,referral,active,enterprise_pilot
+384,Tech Corp,2023-01-27,Basic,US,ecommerce,direct,churned,price_sensitive
+385,Web Data,2023-01-06,Basic,EU,manufacturing,paid_ads,churned,failed_adoption
+386,Super Intelligence,2023-05-22,Basic,EU,saas_tech,paid_ads,churned,failed_adoption
+387,Summit Systems,2023-05-31,Enterprise,US,saas_tech,referral,active,enterprise_pilot
+388,Meta Enterprises,2023-02-22,Enterprise,US,financial_services,paid_ads,active,enterprise_pilot
+389,Nova,2023-05-27,Basic,US,manufacturing,referral,churned,failed_adoption
+390,Auto Labs,2023-06-15,Basic,US,ecommerce,direct,churned,price_sensitive
+391,Ultra,2023-01-11,Basic,US,other,referral,churned,seasonal_business
+392,Quick,2023-02-28,Basic,US,financial_services,direct,churned,failed_adoption
+393,Zenith Hub,2023-03-12,Enterprise,US,financial_services,paid_ads,churned,steady_grower
+394,Mega,2023-03-03,Basic,US,saas_tech,referral,active,price_sensitive
+395,Nova,2023-06-03,Enterprise,US,marketing_agency,organic_search,active,steady_grower
+396,Ultra Enterprises,2023-02-15,Enterprise,US,marketing_agency,paid_ads,churned,seasonal_business
+397,Meta Data,2023-04-16,Basic,US,healthcare,referral,active,enterprise_pilot
+398,Nova,2023-06-05,Basic,US,financial_services,organic_search,active,failed_adoption
+399,Cloud Inc,2023-02-09,Enterprise,US,saas_tech,partner,churned,seasonal_business
+400,Summit Corp,2023-06-15,Enterprise,US,ecommerce,paid_ads,active,enterprise_pilot
+401,Rapid Dynamics,2023-04-16,Basic,US,manufacturing,organic_search,churned,seasonal_business
+402,Nova,2023-05-16,Enterprise,US,financial_services,direct,active,seasonal_business
+403,Web,2023-04-14,Basic,EU,saas_tech,direct,active,price_sensitive
+404,Ultra Insights,2023-05-14,Enterprise,EU,ecommerce,content_marketing,active,enterprise_pilot
+405,Beta,2023-03-14,Enterprise,US,marketing_agency,organic_search,churned,steady_grower
+406,Beta Systems,2023-06-15,Enterprise,US,ecommerce,paid_ads,active,enterprise_pilot
+407,Mega,2023-06-27,Enterprise,US,ecommerce,direct,churned,seasonal_business
+408,Quick Insights,2023-02-01,Pro,US,ecommerce,paid_ads,churned,seasonal_business
+409,Auto Inc,2023-05-19,Enterprise,EU,saas_tech,organic_search,churned,seasonal_business
+410,Vertex,2023-06-03,Basic,US,financial_services,paid_ads,churned,price_sensitive
+411,Cyber,2023-05-11,Enterprise,US,ecommerce,organic_search,churned,seasonal_business
+412,Hyper Associates,2023-01-20,Enterprise,EU,marketing_agency,direct,active,seasonal_business
+413,Apex Enterprises,2023-01-23,Enterprise,US,ecommerce,organic_search,active,seasonal_business
+414,Web Intelligence,2023-04-10,Enterprise,EU,ecommerce,partner,active,price_sensitive
+415,Rapid,2023-05-30,Enterprise,EU,ecommerce,organic_search,churned,steady_grower
+416,Gamma,2023-05-10,Enterprise,EU,saas_tech,organic_search,active,steady_grower
+417,Cyber LLC,2023-03-05,Enterprise,US,ecommerce,referral,churned,seasonal_business
+418,Swift Technologies,2023-02-08,Enterprise,EU,other,referral,active,steady_grower
+419,Cloud Consulting,2023-01-23,Enterprise,EU,other,direct,active,steady_grower
+420,Dynamic Hub,2023-03-10,Basic,EU,other,organic_search,active,failed_adoption
+421,Elite Partners,2023-06-20,Enterprise,US,ecommerce,organic_search,active,steady_grower
+422,Delta Partners,2023-03-20,Basic,EU,manufacturing,partner,churned,steady_grower
+423,Fusion,2023-05-03,Enterprise,US,other,partner,active,enterprise_pilot
+424,Data Studio,2023-03-09,Basic,US,ecommerce,partner,churned,failed_adoption
+425,Fast Innovations,2023-01-14,Enterprise,EU,marketing_agency,referral,active,steady_grower
+426,Cyber Solutions,2023-05-16,Basic,EU,other,paid_ads,churned,price_sensitive
+427,Swift Corp,2023-02-14,Enterprise,US,ecommerce,referral,active,enterprise_pilot
+428,Web Services,2023-06-18,Enterprise,US,saas_tech,paid_ads,churned,steady_grower
+429,Fast Analytics,2023-05-13,Enterprise,US,financial_services,paid_ads,active,enterprise_pilot
+430,Auto Ventures,2023-05-03,Enterprise,US,marketing_agency,paid_ads,active,steady_grower
+431,Beta Group,2023-05-22,Basic,US,other,paid_ads,churned,price_sensitive
+432,Beta Consulting,2023-06-05,Enterprise,US,marketing_agency,organic_search,active,steady_grower
+433,Vertex,2023-04-11,Enterprise,US,marketing_agency,referral,churned,seasonal_business
+434,Ultra Technologies,2023-04-06,Basic,US,other,direct,churned,failed_adoption
+435,Quantum,2023-01-07,Enterprise,US,financial_services,partner,active,steady_grower
+436,Mobile Data,2023-04-02,Basic,US,healthcare,paid_ads,churned,failed_adoption
+437,Mega,2023-05-19,Pro,EU,healthcare,organic_search,churned,seasonal_business
+438,Rapid,2023-02-10,Basic,US,saas_tech,paid_ads,churned,price_sensitive
+439,Mega,2023-01-28,Basic,US,healthcare,paid_ads,active,price_sensitive
+440,Prime Corp,2023-06-09,Enterprise,EU,marketing_agency,referral,churned,steady_grower
+441,Tech Hub,2023-06-23,Basic,EU,ecommerce,content_marketing,churned,failed_adoption
+442,Agile Inc,2023-01-16,Enterprise,US,ecommerce,organic_search,active,steady_grower
+443,Agile Ltd,2023-05-25,Basic,EU,manufacturing,organic_search,churned,seasonal_business
+444,Mega,2023-01-21,Enterprise,EU,financial_services,direct,churned,seasonal_business
+445,Ultra Associates,2023-06-03,Basic,US,saas_tech,partner,active,price_sensitive
+446,Beta Insights,2023-02-26,Basic,US,financial_services,referral,churned,price_sensitive
+447,Smart,2023-04-08,Basic,EU,ecommerce,referral,churned,failed_adoption
+448,Mobile Intelligence,2023-01-02,Enterprise,EU,financial_services,partner,active,enterprise_pilot
+449,Quick,2023-04-20,Basic,EU,saas_tech,direct,active,price_sensitive
+450,Swift Intelligence,2023-02-24,Basic,EU,healthcare,paid_ads,active,price_sensitive
+451,Apex Ventures,2023-01-25,Basic,US,ecommerce,direct,churned,failed_adoption
+452,Quick Consulting,2023-02-09,Enterprise,EU,other,referral,active,seasonal_business
+453,Rapid Partners,2023-02-25,Enterprise,EU,manufacturing,paid_ads,active,enterprise_pilot
+454,Beta,2023-03-01,Basic,EU,saas_tech,direct,churned,price_sensitive
+455,Alpha Associates,2023-03-22,Basic,US,ecommerce,direct,churned,seasonal_business
+456,Mobile Solutions,2023-02-12,Enterprise,US,ecommerce,referral,active,steady_grower
+457,Cloud,2023-01-20,Pro,US,ecommerce,organic_search,churned,seasonal_business
+458,Smart,2023-02-16,Enterprise,US,saas_tech,organic_search,active,enterprise_pilot
+459,Smart Partners,2023-05-18,Basic,EU,ecommerce,partner,active,seasonal_business
+460,Alpha,2023-03-24,Enterprise,US,marketing_agency,paid_ads,active,enterprise_pilot
+461,Delta Innovations,2023-05-18,Basic,US,saas_tech,partner,active,price_sensitive
+462,Zenith Consulting,2023-01-02,Enterprise,US,marketing_agency,organic_search,active,steady_grower
+463,Rapid Corp,2023-03-28,Enterprise,US,financial_services,organic_search,active,enterprise_pilot
+464,Fast Inc,2023-04-20,Basic,US,saas_tech,referral,churned,price_sensitive
+465,Super Hub,2023-02-12,Basic,US,financial_services,partner,churned,failed_adoption
+466,Summit Intelligence,2023-04-23,Basic,EU,ecommerce,partner,churned,failed_adoption
+467,Prime Insights,2023-06-13,Basic,EU,ecommerce,referral,churned,seasonal_business
+468,Rapid,2023-06-01,Basic,US,ecommerce,referral,churned,failed_adoption
+469,Meta,2023-06-16,Basic,US,saas_tech,direct,churned,price_sensitive
+470,Agile Labs,2023-03-08,Enterprise,US,marketing_agency,paid_ads,churned,price_sensitive
+471,Quantum,2023-06-15,Basic,US,ecommerce,partner,churned,steady_grower
+472,Quantum,2023-04-27,Basic,US,saas_tech,partner,churned,price_sensitive
+473,Ultra Ltd,2023-01-25,Enterprise,US,marketing_agency,organic_search,active,steady_grower
+474,Pioneer,2023-01-08,Pro,US,saas_tech,referral,churned,seasonal_business
+475,Elite Labs,2023-01-26,Pro,US,financial_services,paid_ads,churned,steady_grower
+476,Global Hub,2023-02-17,Pro,EU,other,organic_search,churned,seasonal_business
+477,Mega,2023-05-18,Enterprise,US,marketing_agency,organic_search,active,steady_grower
+478,Auto,2023-05-16,Pro,EU,ecommerce,paid_ads,active,seasonal_business
+479,Agile Innovations,2023-01-01,Basic,EU,saas_tech,direct,churned,enterprise_pilot
+480,Prime,2023-04-09,Basic,US,healthcare,referral,churned,failed_adoption
+481,Summit,2023-01-26,Enterprise,US,marketing_agency,paid_ads,churned,price_sensitive
+482,Beta LLC,2023-04-26,Enterprise,EU,saas_tech,organic_search,active,enterprise_pilot
+483,Super Systems,2023-06-10,Basic,US,healthcare,referral,churned,seasonal_business
+484,Vertex,2023-03-26,Basic,US,other,partner,churned,price_sensitive
+485,Summit Corp,2023-04-29,Enterprise,EU,manufacturing,partner,active,enterprise_pilot
+486,Gamma,2023-06-15,Enterprise,US,marketing_agency,paid_ads,active,steady_grower
+487,Vertex Enterprises,2023-03-08,Basic,EU,saas_tech,organic_search,churned,failed_adoption
+488,Super Services,2023-03-12,Enterprise,EU,financial_services,content_marketing,active,seasonal_business
+489,Gamma Inc,2023-01-26,Enterprise,EU,marketing_agency,organic_search,churned,seasonal_business
+490,Agile,2023-01-28,Enterprise,EU,marketing_agency,paid_ads,active,steady_grower
+491,Delta,2023-01-29,Enterprise,EU,saas_tech,referral,active,steady_grower
+492,Rapid Corp,2023-01-02,Basic,EU,other,paid_ads,churned,price_sensitive
+493,Gamma,2023-05-21,Enterprise,US,saas_tech,paid_ads,active,steady_grower
+494,Smart,2023-06-09,Enterprise,US,ecommerce,paid_ads,churned,steady_grower
+495,Agile,2023-02-23,Basic,EU,healthcare,content_marketing,churned,seasonal_business
+496,Agile,2023-02-10,Enterprise,US,saas_tech,paid_ads,active,enterprise_pilot
+497,Web Enterprises,2023-05-02,Basic,US,marketing_agency,paid_ads,churned,failed_adoption
+498,Gamma Technologies,2023-04-06,Basic,US,manufacturing,organic_search,churned,price_sensitive
+499,Quick Dynamics,2023-06-02,Basic,US,ecommerce,paid_ads,churned,price_sensitive
+500,Super Studio,2023-05-02,Basic,US,healthcare,referral,active,enterprise_pilot
+501,Rapid Partners,2023-02-03,Pro,EU,other,partner,churned,seasonal_business
+502,Pioneer,2023-02-18,Basic,US,marketing_agency,organic_search,active,failed_adoption
+503,Zenith Innovations,2023-04-01,Enterprise,US,ecommerce,paid_ads,active,steady_grower
+504,Zenith,2023-02-23,Basic,US,healthcare,partner,churned,seasonal_business
+505,Fast,2023-04-30,Enterprise,EU,ecommerce,referral,active,steady_grower
+506,Quantum,2023-01-26,Basic,US,healthcare,direct,churned,seasonal_business
+507,Meta Associates,2023-04-27,Basic,EU,financial_services,paid_ads,churned,failed_adoption
+508,Agile Group,2023-03-22,Enterprise,EU,marketing_agency,organic_search,churned,price_sensitive
+509,Super Inc,2023-06-05,Enterprise,EU,financial_services,direct,active,steady_grower
+510,Agile Corp,2023-04-29,Enterprise,EU,saas_tech,organic_search,active,steady_grower
+511,Digital Intelligence,2023-01-14,Enterprise,EU,ecommerce,direct,active,enterprise_pilot
+512,Apex Intelligence,2023-03-20,Basic,US,healthcare,organic_search,churned,price_sensitive
+513,Digital Consulting,2023-02-24,Enterprise,US,ecommerce,partner,active,seasonal_business
+514,Alpha Enterprises,2023-03-19,Enterprise,EU,marketing_agency,direct,active,price_sensitive
+515,Apex Systems,2023-04-14,Enterprise,US,ecommerce,direct,churned,enterprise_pilot
+516,Hyper Studio,2023-06-21,Pro,EU,manufacturing,referral,active,seasonal_business
+517,Apex Insights,2023-04-11,Enterprise,US,ecommerce,partner,active,price_sensitive
+518,Cyber Services,2023-01-21,Basic,US,marketing_agency,organic_search,churned,failed_adoption
+519,Beta Ventures,2023-06-18,Basic,US,ecommerce,organic_search,churned,steady_grower
+520,Cyber,2023-05-17,Enterprise,EU,ecommerce,partner,active,enterprise_pilot
+521,Quick,2023-02-04,Enterprise,US,marketing_agency,direct,churned,seasonal_business
+522,Quick Data,2023-04-17,Basic,US,manufacturing,referral,active,failed_adoption
+523,Data Associates,2023-04-16,Pro,EU,manufacturing,organic_search,churned,seasonal_business
+524,Data Systems,2023-02-23,Enterprise,EU,manufacturing,paid_ads,churned,steady_grower
+525,Nova Studio,2023-01-24,Basic,US,saas_tech,organic_search,active,price_sensitive
+526,Summit Innovations,2023-02-28,Pro,US,saas_tech,direct,churned,steady_grower
+527,Vertex Data,2023-06-19,Basic,EU,manufacturing,paid_ads,active,failed_adoption
+528,Prime Intelligence,2023-05-06,Enterprise,US,manufacturing,organic_search,active,steady_grower
+529,Nexus,2023-03-06,Enterprise,US,saas_tech,organic_search,active,steady_grower
+530,Alpha Systems,2023-05-04,Enterprise,US,manufacturing,paid_ads,active,enterprise_pilot
+531,Mega Dynamics,2023-04-19,Enterprise,US,saas_tech,organic_search,active,enterprise_pilot
+532,Prime Studio,2023-06-02,Pro,US,healthcare,referral,active,steady_grower
+533,Nova LLC,2023-06-23,Enterprise,EU,financial_services,organic_search,active,steady_grower
+534,Fast,2023-01-02,Enterprise,US,ecommerce,direct,active,steady_grower
+535,Gamma,2023-04-22,Basic,EU,saas_tech,paid_ads,churned,failed_adoption
+536,Gamma Works,2023-06-14,Basic,US,healthcare,content_marketing,active,enterprise_pilot
+537,Global,2023-04-07,Basic,US,healthcare,paid_ads,active,failed_adoption
+538,Auto Associates,2023-04-21,Basic,EU,ecommerce,organic_search,churned,price_sensitive
+539,Tech,2023-06-08,Basic,EU,manufacturing,referral,churned,failed_adoption
+540,Cyber Works,2023-04-25,Basic,EU,saas_tech,referral,churned,seasonal_business
+541,Apex Works,2023-06-27,Enterprise,EU,ecommerce,direct,active,seasonal_business
+542,Super,2023-05-12,Enterprise,US,marketing_agency,paid_ads,active,steady_grower
+543,Data Enterprises,2023-01-09,Enterprise,US,ecommerce,paid_ads,churned,price_sensitive
+544,Quick Hub,2023-05-25,Enterprise,EU,saas_tech,organic_search,active,steady_grower
+545,Global,2023-02-19,Enterprise,EU,marketing_agency,direct,churned,price_sensitive
+546,Delta,2023-05-09,Basic,EU,healthcare,referral,churned,seasonal_business
+547,Auto Ventures,2023-01-09,Enterprise,US,ecommerce,partner,churned,enterprise_pilot
+548,Web Group,2023-02-02,Enterprise,EU,financial_services,referral,active,enterprise_pilot
+549,Dynamic,2023-04-26,Pro,EU,saas_tech,paid_ads,churned,seasonal_business
+550,Cloud,2023-06-26,Pro,EU,other,organic_search,churned,seasonal_business
+551,Quick,2023-01-19,Basic,US,financial_services,paid_ads,churned,failed_adoption
+552,Agile,2023-04-06,Enterprise,US,ecommerce,organic_search,active,price_sensitive
+553,Global Analytics,2023-03-29,Enterprise,US,saas_tech,partner,active,seasonal_business
+554,Mega Group,2023-01-18,Basic,US,saas_tech,direct,churned,failed_adoption
+555,Quick Hub,2023-06-10,Enterprise,EU,ecommerce,paid_ads,active,price_sensitive
+556,Digital LLC,2023-03-04,Basic,EU,saas_tech,referral,active,price_sensitive
+557,Agile Dynamics,2023-03-23,Enterprise,EU,healthcare,organic_search,churned,seasonal_business
+558,Pioneer,2023-03-17,Enterprise,US,marketing_agency,referral,churned,enterprise_pilot
+559,Meta Analytics,2023-01-26,Enterprise,EU,saas_tech,direct,churned,seasonal_business
+560,Tech Hub,2023-04-01,Basic,US,healthcare,direct,churned,enterprise_pilot
+561,Dynamic Solutions,2023-04-04,Enterprise,US,financial_services,partner,active,steady_grower
+562,Hyper Ventures,2023-01-02,Basic,US,saas_tech,organic_search,churned,failed_adoption
+563,Web Innovations,2023-01-31,Enterprise,EU,ecommerce,organic_search,active,steady_grower
+564,Hyper Partners,2023-04-25,Enterprise,US,saas_tech,paid_ads,churned,seasonal_business
+565,Dynamic Insights,2023-04-27,Enterprise,US,financial_services,referral,active,steady_grower
+566,Mobile,2023-04-26,Enterprise,US,marketing_agency,paid_ads,churned,price_sensitive
+567,Beta Hub,2023-04-15,Basic,US,saas_tech,direct,churned,failed_adoption
+568,Rapid Intelligence,2023-06-28,Enterprise,EU,saas_tech,organic_search,churned,enterprise_pilot
+569,Summit Solutions,2023-06-09,Basic,US,healthcare,paid_ads,churned,enterprise_pilot
+570,Prime Ventures,2023-02-08,Enterprise,US,ecommerce,organic_search,active,steady_grower
+571,Rapid Partners,2023-01-29,Basic,US,saas_tech,paid_ads,churned,failed_adoption
+572,Elite Technologies,2023-04-12,Basic,EU,healthcare,partner,active,seasonal_business
+573,Quick Ltd,2023-06-28,Enterprise,US,ecommerce,organic_search,active,steady_grower
+574,Auto LLC,2023-01-10,Enterprise,EU,marketing_agency,paid_ads,active,enterprise_pilot
+575,Fast Dynamics,2023-04-13,Basic,EU,saas_tech,paid_ads,churned,failed_adoption
+576,Delta,2023-02-03,Enterprise,EU,ecommerce,organic_search,active,seasonal_business
+577,Global Inc,2023-06-01,Enterprise,US,ecommerce,organic_search,active,seasonal_business
+578,Prime Ventures,2023-01-01,Enterprise,EU,other,organic_search,active,steady_grower
+579,Ultra Studio,2023-04-17,Pro,EU,marketing_agency,referral,churned,seasonal_business
+580,Agile Consulting,2023-06-14,Enterprise,US,ecommerce,organic_search,active,seasonal_business
+581,Fast Analytics,2023-04-22,Basic,EU,financial_services,partner,churned,price_sensitive
+582,Vertex Partners,2023-03-06,Enterprise,EU,saas_tech,organic_search,churned,seasonal_business
+583,Zenith Labs,2023-05-05,Enterprise,US,marketing_agency,paid_ads,active,steady_grower
+584,Agile Studio,2023-01-30,Basic,EU,financial_services,paid_ads,active,price_sensitive
+585,Alpha Systems,2023-01-02,Basic,EU,saas_tech,direct,churned,failed_adoption
+586,Smart,2023-01-20,Basic,US,ecommerce,paid_ads,churned,failed_adoption
+587,Alpha,2023-01-20,Enterprise,EU,ecommerce,partner,active,steady_grower
+588,Elite,2023-05-25,Pro,US,healthcare,paid_ads,active,steady_grower
+589,Data Works,2023-04-02,Basic,US,other,organic_search,churned,price_sensitive
+590,Smart Data,2023-01-23,Enterprise,EU,marketing_agency,paid_ads,churned,seasonal_business
+591,Vertex Group,2023-04-27,Basic,US,healthcare,paid_ads,churned,seasonal_business
+592,Hyper Inc,2023-02-25,Enterprise,US,marketing_agency,direct,churned,price_sensitive
+593,Mega Group,2023-03-12,Basic,US,healthcare,organic_search,churned,enterprise_pilot
+594,Digital Hub,2023-06-25,Basic,US,financial_services,content_marketing,churned,failed_adoption
+595,Web,2023-04-14,Basic,EU,manufacturing,organic_search,churned,seasonal_business
+596,Dynamic,2023-03-19,Basic,US,ecommerce,partner,churned,failed_adoption
+597,Fast,2023-01-25,Basic,US,financial_services,organic_search,active,price_sensitive
+598,Digital Associates,2023-06-05,Basic,EU,financial_services,paid_ads,churned,enterprise_pilot
+599,Gamma Intelligence,2023-06-10,Enterprise,US,financial_services,organic_search,active,steady_grower
+600,Smart,2023-02-17,Basic,US,ecommerce,organic_search,churned,seasonal_business
+601,Elite Dynamics,2023-01-10,Pro,US,financial_services,organic_search,churned,seasonal_business
+602,Agile Partners,2023-01-30,Pro,US,ecommerce,organic_search,churned,seasonal_business
+603,Elite,2023-05-22,Enterprise,US,marketing_agency,referral,churned,seasonal_business
+604,Dynamic Works,2023-01-22,Enterprise,EU,marketing_agency,referral,active,steady_grower
+605,Hyper Consulting,2023-01-16,Enterprise,EU,healthcare,partner,active,seasonal_business
+606,Dynamic LLC,2023-04-19,Basic,US,manufacturing,referral,active,price_sensitive
+607,Beta Labs,2023-04-08,Basic,US,saas_tech,organic_search,churned,failed_adoption
+608,Web Dynamics,2023-02-02,Enterprise,US,financial_services,direct,churned,seasonal_business
+609,Global Systems,2023-05-29,Enterprise,US,ecommerce,direct,churned,seasonal_business
+610,Global,2023-03-27,Enterprise,US,ecommerce,paid_ads,churned,seasonal_business
+611,Cyber LLC,2023-05-05,Basic,EU,healthcare,organic_search,active,enterprise_pilot
+612,Global Partners,2023-06-05,Enterprise,US,saas_tech,partner,active,steady_grower
+613,Auto,2023-01-09,Basic,US,ecommerce,direct,churned,price_sensitive
+614,Rapid Associates,2023-02-11,Basic,EU,saas_tech,paid_ads,churned,failed_adoption
+615,Fast,2023-04-04,Basic,EU,healthcare,referral,churned,failed_adoption
+616,Mobile Consulting,2023-06-28,Pro,US,healthcare,paid_ads,active,steady_grower
+617,Nova Labs,2023-06-11,Enterprise,US,ecommerce,paid_ads,churned,steady_grower
+618,Auto Insights,2023-05-10,Enterprise,US,marketing_agency,organic_search,active,price_sensitive
+619,Zenith,2023-03-22,Enterprise,US,ecommerce,referral,active,enterprise_pilot
+620,Agile Works,2023-01-10,Enterprise,EU,manufacturing,referral,active,seasonal_business
+621,Data Solutions,2023-05-11,Pro,US,healthcare,paid_ads,churned,steady_grower
+622,Data LLC,2023-04-28,Pro,EU,financial_services,partner,active,seasonal_business
+623,Apex Associates,2023-03-23,Enterprise,US,marketing_agency,organic_search,active,steady_grower
+624,Prime Analytics,2023-03-16,Enterprise,US,ecommerce,referral,active,seasonal_business
+625,Cyber,2023-01-05,Basic,EU,manufacturing,partner,churned,steady_grower
+626,Super Dynamics,2023-01-26,Basic,US,financial_services,direct,churned,failed_adoption
+627,Alpha,2023-04-13,Enterprise,EU,manufacturing,organic_search,active,steady_grower
+628,Quick Technologies,2023-02-07,Basic,US,saas_tech,content_marketing,churned,price_sensitive
+629,Alpha Analytics,2023-01-15,Enterprise,EU,ecommerce,partner,active,enterprise_pilot
+630,Dynamic Hub,2023-05-27,Basic,EU,other,organic_search,churned,failed_adoption
+631,Prime Corp,2023-04-06,Enterprise,US,saas_tech,organic_search,active,steady_grower
+632,Cloud Intelligence,2023-01-29,Basic,EU,financial_services,paid_ads,churned,failed_adoption
+633,Summit Works,2023-02-05,Basic,US,manufacturing,referral,active,enterprise_pilot
+634,Global Analytics,2023-02-22,Enterprise,US,ecommerce,direct,active,seasonal_business
+635,Prime,2023-05-30,Enterprise,EU,saas_tech,referral,active,steady_grower
+636,Mobile Hub,2023-03-21,Enterprise,US,saas_tech,partner,active,steady_grower
+637,Auto Group,2023-05-05,Enterprise,US,ecommerce,organic_search,active,price_sensitive
+638,Meta,2023-01-30,Enterprise,EU,marketing_agency,organic_search,active,seasonal_business
+639,Quick,2023-03-04,Basic,US,other,paid_ads,churned,seasonal_business
+640,Beta LLC,2023-01-02,Basic,EU,healthcare,organic_search,active,enterprise_pilot
+641,Dynamic,2023-03-03,Enterprise,US,ecommerce,direct,active,steady_grower
+642,Pioneer,2023-03-07,Enterprise,US,ecommerce,direct,active,enterprise_pilot
+643,Quick Studio,2023-06-10,Basic,US,ecommerce,direct,churned,price_sensitive
+644,Nova Labs,2023-01-20,Enterprise,EU,saas_tech,paid_ads,active,steady_grower
+645,Quick Associates,2023-03-09,Pro,US,healthcare,partner,active,steady_grower
+646,Mobile Works,2023-02-21,Basic,EU,marketing_agency,partner,churned,failed_adoption
+647,Quick,2023-05-07,Enterprise,US,marketing_agency,direct,churned,seasonal_business
+648,Smart Insights,2023-01-14,Enterprise,US,ecommerce,paid_ads,active,steady_grower
+649,Mobile,2023-03-18,Enterprise,US,manufacturing,referral,active,steady_grower
+650,Hyper Dynamics,2023-02-04,Basic,US,marketing_agency,organic_search,churned,failed_adoption
+651,Ultra LLC,2023-06-22,Enterprise,EU,financial_services,organic_search,active,enterprise_pilot
+652,Hyper Analytics,2023-02-15,Basic,US,financial_services,referral,active,price_sensitive
+653,Hyper Associates,2023-04-19,Enterprise,US,ecommerce,paid_ads,churned,enterprise_pilot
+654,Web Dynamics,2023-01-26,Enterprise,EU,ecommerce,paid_ads,churned,steady_grower
+655,Prime,2023-03-03,Enterprise,EU,ecommerce,paid_ads,active,steady_grower
+656,Alpha Analytics,2023-01-06,Enterprise,EU,ecommerce,partner,active,seasonal_business
+657,Vertex,2023-05-18,Enterprise,US,saas_tech,content_marketing,active,enterprise_pilot
+658,Mega Corp,2023-06-03,Basic,US,saas_tech,direct,churned,price_sensitive
+659,Dynamic Hub,2023-04-17,Enterprise,EU,manufacturing,organic_search,active,enterprise_pilot
+660,Auto,2023-01-01,Pro,EU,healthcare,organic_search,active,steady_grower
+661,Quick Technologies,2023-05-23,Enterprise,US,ecommerce,organic_search,churned,price_sensitive
+662,Quantum,2023-05-17,Basic,EU,marketing_agency,paid_ads,churned,failed_adoption
+663,Data,2023-03-08,Basic,US,healthcare,organic_search,churned,enterprise_pilot
+664,Agile LLC,2023-05-04,Enterprise,EU,ecommerce,partner,active,steady_grower
+665,Quick,2023-03-25,Enterprise,EU,marketing_agency,direct,churned,price_sensitive
+666,Ultra,2023-04-23,Pro,US,healthcare,organic_search,active,steady_grower
+667,Delta Ventures,2023-02-26,Enterprise,EU,saas_tech,paid_ads,churned,seasonal_business
+668,Web Works,2023-06-15,Enterprise,US,other,organic_search,churned,enterprise_pilot
+669,Quick Innovations,2023-01-25,Basic,EU,other,organic_search,churned,price_sensitive
+670,Cloud Enterprises,2023-01-08,Basic,US,marketing_agency,referral,churned,failed_adoption
+671,Tech Inc,2023-06-24,Enterprise,EU,saas_tech,organic_search,churned,seasonal_business
+672,Apex Solutions,2023-06-23,Enterprise,EU,saas_tech,paid_ads,active,steady_grower
+673,Summit,2023-05-15,Enterprise,EU,ecommerce,referral,active,price_sensitive
+674,Quick,2023-04-11,Enterprise,EU,saas_tech,paid_ads,active,steady_grower
+675,Data Ltd,2023-05-17,Enterprise,US,financial_services,content_marketing,active,steady_grower
+676,Hyper Hub,2023-01-11,Enterprise,US,ecommerce,content_marketing,active,price_sensitive
+677,Delta Analytics,2023-02-19,Basic,US,financial_services,paid_ads,active,price_sensitive
+678,Ultra Solutions,2023-06-03,Enterprise,US,saas_tech,direct,churned,enterprise_pilot
+679,Mega Works,2023-04-30,Enterprise,US,ecommerce,organic_search,active,steady_grower
+680,Nova,2023-06-06,Pro,EU,manufacturing,direct,active,seasonal_business
+681,Quick Partners,2023-06-07,Enterprise,US,ecommerce,organic_search,churned,enterprise_pilot
+682,Quick Partners,2023-04-08,Enterprise,US,ecommerce,direct,active,steady_grower
+683,Summit Technologies,2023-03-25,Enterprise,US,marketing_agency,organic_search,churned,seasonal_business
+684,Acme,2023-06-21,Enterprise,US,other,direct,active,seasonal_business
+685,Auto Inc,2023-01-16,Pro,EU,healthcare,partner,active,steady_grower
+686,Web Labs,2023-01-17,Enterprise,US,financial_services,content_marketing,active,steady_grower
+687,Cloud Technologies,2023-03-27,Pro,EU,saas_tech,referral,churned,seasonal_business
+688,Zenith Corp,2023-06-18,Basic,US,healthcare,paid_ads,churned,failed_adoption
+689,Swift Innovations,2023-05-13,Enterprise,EU,other,organic_search,churned,seasonal_business
+690,Data Associates,2023-04-07,Pro,EU,other,direct,active,seasonal_business
+691,Rapid,2023-01-29,Enterprise,US,financial_services,organic_search,active,seasonal_business
+692,Apex,2023-05-15,Basic,US,healthcare,organic_search,churned,enterprise_pilot
+693,Vertex Solutions,2023-01-29,Basic,US,manufacturing,paid_ads,active,price_sensitive
+694,Zenith,2023-03-11,Basic,EU,manufacturing,direct,churned,failed_adoption
+695,Nova Consulting,2023-01-25,Enterprise,EU,ecommerce,organic_search,active,steady_grower
+696,Cloud Studio,2023-03-05,Enterprise,EU,marketing_agency,organic_search,active,steady_grower
+697,Swift Solutions,2023-02-13,Enterprise,US,saas_tech,referral,active,steady_grower
+698,Vertex Services,2023-04-11,Enterprise,US,saas_tech,direct,churned,enterprise_pilot
+699,Digital Works,2023-03-11,Pro,US,ecommerce,organic_search,churned,seasonal_business
+700,Mega,2023-02-21,Basic,EU,saas_tech,organic_search,churned,enterprise_pilot
+701,Elite Solutions,2023-01-13,Pro,US,manufacturing,organic_search,churned,seasonal_business
+702,Smart Labs,2023-01-28,Enterprise,US,financial_services,partner,active,steady_grower
+703,Global Insights,2023-03-18,Enterprise,US,financial_services,organic_search,active,steady_grower
+704,Quantum,2023-04-08,Enterprise,US,marketing_agency,partner,active,price_sensitive
+705,Delta Insights,2023-06-15,Basic,US,saas_tech,partner,active,price_sensitive
+706,Hyper Services,2023-05-21,Enterprise,US,saas_tech,paid_ads,active,enterprise_pilot
+707,Agile Analytics,2023-06-14,Enterprise,US,marketing_agency,paid_ads,active,steady_grower
+708,Pioneer,2023-03-06,Basic,EU,saas_tech,organic_search,churned,price_sensitive
+709,Cyber Solutions,2023-04-11,Enterprise,US,marketing_agency,direct,active,seasonal_business
+710,Agile Corp,2023-05-23,Basic,US,financial_services,paid_ads,active,price_sensitive
+711,Rapid Works,2023-06-23,Enterprise,EU,marketing_agency,direct,active,steady_grower
+712,Zenith Innovations,2023-03-17,Basic,EU,ecommerce,organic_search,churned,steady_grower
+713,Quick Ltd,2023-04-07,Basic,EU,saas_tech,paid_ads,churned,failed_adoption
+714,Mega Associates,2023-01-09,Enterprise,US,marketing_agency,organic_search,active,steady_grower
+715,Delta Studio,2023-05-28,Enterprise,US,marketing_agency,organic_search,churned,seasonal_business
+716,Prime Innovations,2023-01-21,Enterprise,US,saas_tech,paid_ads,active,seasonal_business
+717,Vertex,2023-03-02,Basic,US,manufacturing,content_marketing,active,price_sensitive
+718,Data Analytics,2023-03-28,Basic,EU,ecommerce,content_marketing,churned,price_sensitive
+719,Elite,2023-01-10,Basic,EU,marketing_agency,organic_search,active,failed_adoption
+720,Ultra Labs,2023-04-10,Basic,EU,saas_tech,organic_search,churned,price_sensitive
+721,Rapid,2023-05-31,Enterprise,EU,marketing_agency,paid_ads,churned,steady_grower
+722,Mobile Studio,2023-01-27,Enterprise,US,other,direct,churned,enterprise_pilot
+723,Dynamic LLC,2023-02-13,Basic,EU,saas_tech,organic_search,churned,price_sensitive
+724,Auto Dynamics,2023-02-16,Enterprise,EU,marketing_agency,paid_ads,churned,seasonal_business
+725,Digital Intelligence,2023-02-25,Enterprise,US,marketing_agency,organic_search,churned,enterprise_pilot
+726,Nexus,2023-06-03,Enterprise,EU,financial_services,organic_search,active,seasonal_business
+727,Delta,2023-03-21,Enterprise,EU,manufacturing,partner,active,steady_grower
+728,Nova Studio,2023-01-26,Enterprise,EU,other,organic_search,churned,enterprise_pilot
+729,Quick Ventures,2023-03-14,Enterprise,EU,ecommerce,direct,active,seasonal_business
+730,Auto Studio,2023-01-13,Basic,EU,ecommerce,paid_ads,churned,failed_adoption
+731,Delta,2023-02-08,Enterprise,EU,saas_tech,paid_ads,active,enterprise_pilot
+732,Super Studio,2023-04-05,Enterprise,EU,financial_services,referral,active,steady_grower
+733,Auto Partners,2023-04-16,Basic,EU,ecommerce,content_marketing,churned,price_sensitive
+734,Delta Works,2023-05-04,Basic,EU,other,organic_search,churned,failed_adoption
+735,Global Corp,2023-01-26,Enterprise,EU,manufacturing,organic_search,churned,steady_grower
+736,Summit Enterprises,2023-05-04,Enterprise,EU,manufacturing,direct,active,enterprise_pilot
+737,Mobile Dynamics,2023-03-22,Enterprise,US,ecommerce,direct,active,price_sensitive
+738,Auto Hub,2023-04-27,Enterprise,EU,saas_tech,organic_search,active,enterprise_pilot
+739,Quantum,2023-02-10,Enterprise,EU,marketing_agency,referral,active,steady_grower
+740,Digital,2023-05-31,Basic,US,healthcare,direct,active,steady_grower
+741,Nova,2023-05-28,Basic,EU,manufacturing,organic_search,active,price_sensitive
+742,Tech Consulting,2023-05-28,Enterprise,US,ecommerce,organic_search,active,steady_grower
+743,Web Labs,2023-06-28,Enterprise,US,marketing_agency,referral,active,steady_grower
+744,Hyper LLC,2023-02-15,Basic,US,financial_services,direct,active,price_sensitive
+745,Tech LLC,2023-04-18,Enterprise,EU,ecommerce,direct,active,steady_grower
+746,Data Studio,2023-01-24,Basic,EU,ecommerce,content_marketing,churned,seasonal_business
+747,Smart Intelligence,2023-02-06,Basic,US,saas_tech,content_marketing,churned,seasonal_business
+748,Prime,2023-02-28,Basic,EU,saas_tech,organic_search,churned,failed_adoption
+749,Data,2023-05-19,Enterprise,EU,ecommerce,organic_search,active,steady_grower
+750,Alpha Ventures,2023-04-28,Enterprise,EU,ecommerce,direct,active,steady_grower
+751,Agile,2023-05-12,Enterprise,EU,marketing_agency,referral,active,price_sensitive
+752,Summit,2023-06-01,Enterprise,US,marketing_agency,direct,churned,seasonal_business
+753,Meta Enterprises,2023-03-03,Enterprise,US,saas_tech,content_marketing,active,seasonal_business
+754,Prime Hub,2023-03-01,Enterprise,EU,ecommerce,referral,active,seasonal_business
+755,Mega Solutions,2023-01-12,Enterprise,EU,manufacturing,referral,active,steady_grower
+756,Elite Services,2023-01-31,Enterprise,US,marketing_agency,referral,active,price_sensitive
+757,Data,2023-04-08,Enterprise,EU,financial_services,direct,active,enterprise_pilot
+758,Nova,2023-03-28,Enterprise,EU,marketing_agency,direct,active,seasonal_business
+759,Dynamic Inc,2023-01-11,Basic,EU,manufacturing,paid_ads,churned,seasonal_business
+760,Vertex Insights,2023-06-27,Enterprise,US,saas_tech,referral,churned,seasonal_business
+761,Smart,2023-01-28,Enterprise,EU,financial_services,paid_ads,active,seasonal_business
+762,Cyber Group,2023-04-26,Basic,US,saas_tech,organic_search,active,seasonal_business
+763,Vertex,2023-03-21,Basic,EU,healthcare,organic_search,churned,failed_adoption
+764,Acme,2023-01-17,Basic,EU,ecommerce,direct,churned,seasonal_business
+765,Elite Analytics,2023-02-15,Pro,EU,manufacturing,organic_search,churned,seasonal_business
+766,Rapid Services,2023-06-17,Basic,US,saas_tech,organic_search,churned,price_sensitive
+767,Summit LLC,2023-06-13,Enterprise,EU,ecommerce,organic_search,active,enterprise_pilot
+768,Rapid Innovations,2023-05-04,Basic,US,financial_services,direct,active,price_sensitive
+769,Delta,2023-04-17,Basic,US,saas_tech,organic_search,active,price_sensitive
+770,Prime,2023-05-03,Enterprise,EU,ecommerce,direct,active,seasonal_business
+771,Data Ltd,2023-06-28,Basic,US,saas_tech,direct,churned,steady_grower
+772,Elite Systems,2023-03-09,Basic,US,financial_services,referral,churned,price_sensitive
+773,Elite Group,2023-04-16,Enterprise,US,ecommerce,direct,active,seasonal_business
+774,Prime Analytics,2023-01-16,Basic,US,healthcare,paid_ads,active,price_sensitive
+775,Meta Enterprises,2023-04-21,Enterprise,US,ecommerce,paid_ads,active,enterprise_pilot
+776,Mobile,2023-05-09,Basic,EU,healthcare,paid_ads,churned,failed_adoption
+777,Vertex Group,2023-02-23,Enterprise,EU,healthcare,referral,active,steady_grower
+778,Elite Hub,2023-05-04,Enterprise,EU,ecommerce,referral,active,seasonal_business
+779,Beta Partners,2023-05-02,Basic,EU,other,organic_search,churned,price_sensitive
+780,Apex,2023-01-11,Enterprise,US,manufacturing,direct,churned,seasonal_business
+781,Smart Group,2023-04-01,Enterprise,EU,saas_tech,referral,active,enterprise_pilot
+782,Vertex Partners,2023-02-05,Basic,US,saas_tech,organic_search,active,price_sensitive
+783,Prime,2023-05-31,Basic,EU,manufacturing,organic_search,churned,seasonal_business
+784,Dynamic Corp,2023-06-14,Enterprise,EU,saas_tech,partner,active,steady_grower
+785,Mobile Intelligence,2023-02-21,Pro,US,financial_services,paid_ads,churned,seasonal_business
+786,Cyber Associates,2023-05-23,Enterprise,US,marketing_agency,direct,active,seasonal_business
+787,Ultra,2023-01-21,Enterprise,US,ecommerce,paid_ads,active,seasonal_business
+788,Zenith,2023-05-18,Enterprise,EU,marketing_agency,partner,active,seasonal_business
+789,Zenith Data,2023-02-21,Enterprise,US,financial_services,paid_ads,active,enterprise_pilot
+790,Beta Associates,2023-06-21,Basic,EU,healthcare,direct,active,price_sensitive
+791,Web Enterprises,2023-05-01,Basic,EU,saas_tech,direct,active,price_sensitive
+792,Agile Works,2023-04-16,Enterprise,US,saas_tech,referral,active,steady_grower
+793,Alpha Innovations,2023-06-23,Enterprise,US,marketing_agency,organic_search,churned,seasonal_business
+794,Auto,2023-01-27,Pro,US,healthcare,direct,active,steady_grower
+795,Rapid Labs,2023-04-09,Basic,EU,healthcare,paid_ads,churned,seasonal_business
+796,Cyber Hub,2023-04-29,Enterprise,US,ecommerce,partner,active,steady_grower
+797,Web,2023-06-26,Basic,EU,healthcare,content_marketing,active,price_sensitive
+798,Meta,2023-02-07,Basic,US,healthcare,direct,churned,price_sensitive
+799,Tech Partners,2023-02-03,Basic,EU,healthcare,direct,churned,enterprise_pilot
+800,Mobile Ventures,2023-05-26,Basic,US,ecommerce,paid_ads,churned,failed_adoption
+801,Zenith,2023-03-24,Enterprise,US,manufacturing,paid_ads,active,steady_grower
+802,Hyper Systems,2023-03-24,Enterprise,EU,financial_services,organic_search,churned,steady_grower
+803,Cloud,2023-05-14,Basic,US,ecommerce,referral,active,failed_adoption
+804,Beta Ventures,2023-01-07,Enterprise,US,marketing_agency,referral,churned,steady_grower
+805,Fast Intelligence,2023-03-25,Enterprise,US,saas_tech,organic_search,active,steady_grower
+806,Super Ventures,2023-06-01,Enterprise,US,marketing_agency,organic_search,active,steady_grower
+807,Fast Partners,2023-01-07,Enterprise,US,saas_tech,organic_search,active,seasonal_business
+808,Quick Technologies,2023-03-02,Enterprise,US,saas_tech,organic_search,churned,enterprise_pilot
+809,Acme,2023-02-26,Enterprise,US,healthcare,content_marketing,active,steady_grower
+810,Swift,2023-06-21,Enterprise,US,saas_tech,direct,active,steady_grower
+811,Rapid,2023-06-20,Basic,US,financial_services,organic_search,churned,price_sensitive
+812,Auto Corp,2023-01-02,Basic,US,financial_services,referral,churned,failed_adoption
+813,Fast,2023-04-04,Basic,EU,healthcare,referral,churned,seasonal_business
+814,Cyber Enterprises,2023-05-30,Enterprise,EU,manufacturing,paid_ads,churned,seasonal_business
+815,Quick Services,2023-03-28,Basic,EU,saas_tech,referral,churned,price_sensitive
+816,Fusion,2023-02-03,Enterprise,US,saas_tech,referral,active,seasonal_business
+817,Cloud Solutions,2023-02-19,Basic,US,financial_services,referral,active,price_sensitive
+818,Apex,2023-04-13,Basic,US,financial_services,partner,churned,price_sensitive
+819,Apex Hub,2023-04-21,Enterprise,US,ecommerce,paid_ads,active,steady_grower
+820,Vertex,2023-02-23,Enterprise,EU,financial_services,referral,churned,enterprise_pilot
+821,Quick Hub,2023-05-25,Enterprise,EU,ecommerce,paid_ads,churned,steady_grower
+822,Cloud,2023-03-12,Basic,US,healthcare,referral,active,enterprise_pilot
+823,Summit Analytics,2023-04-15,Basic,US,saas_tech,direct,churned,failed_adoption
+824,Auto Consulting,2023-04-14,Enterprise,US,manufacturing,referral,churned,seasonal_business
+825,Ultra Solutions,2023-05-02,Enterprise,EU,ecommerce,partner,active,seasonal_business
+826,Hyper Works,2023-02-11,Basic,US,saas_tech,referral,active,price_sensitive
+827,Prime Corp,2023-01-23,Basic,US,healthcare,organic_search,churned,steady_grower
+828,Web Systems,2023-03-12,Enterprise,US,marketing_agency,direct,active,steady_grower
+829,Zenith,2023-03-27,Enterprise,EU,ecommerce,referral,active,enterprise_pilot
+830,Elite Data,2023-02-18,Enterprise,EU,ecommerce,organic_search,active,price_sensitive
+831,Hyper Studio,2023-04-24,Basic,EU,saas_tech,paid_ads,churned,price_sensitive
+832,Fusion,2023-03-03,Basic,US,ecommerce,organic_search,churned,failed_adoption
+833,Cloud Services,2023-02-18,Enterprise,EU,saas_tech,partner,active,seasonal_business
+834,Prime,2023-03-25,Enterprise,US,marketing_agency,paid_ads,churned,enterprise_pilot
+835,Vertex Partners,2023-05-15,Basic,US,healthcare,paid_ads,active,price_sensitive
+836,Gamma,2023-06-05,Enterprise,US,ecommerce,paid_ads,active,seasonal_business
+837,Elite Ventures,2023-04-13,Enterprise,US,ecommerce,organic_search,active,steady_grower
+838,Rapid Dynamics,2023-02-16,Enterprise,US,ecommerce,direct,active,steady_grower
+839,Vertex Associates,2023-01-07,Enterprise,EU,marketing_agency,organic_search,active,steady_grower
+840,Nova Insights,2023-06-20,Basic,US,saas_tech,organic_search,active,price_sensitive
+841,Meta Services,2023-01-07,Pro,US,healthcare,partner,active,steady_grower
+842,Quick Data,2023-01-06,Enterprise,EU,saas_tech,organic_search,active,steady_grower
+843,Elite,2023-01-14,Enterprise,US,marketing_agency,partner,churned,seasonal_business
+844,Apex Consulting,2023-05-02,Basic,US,financial_services,referral,churned,price_sensitive
+845,Agile,2023-06-26,Basic,EU,healthcare,organic_search,active,steady_grower
+846,Mobile Partners,2023-06-18,Basic,US,healthcare,paid_ads,churned,enterprise_pilot
+847,Nova Systems,2023-03-27,Pro,EU,saas_tech,paid_ads,active,seasonal_business
+848,Vertex Works,2023-01-08,Enterprise,US,financial_services,direct,active,seasonal_business
+849,Cyber Works,2023-01-03,Pro,US,ecommerce,paid_ads,churned,seasonal_business
+850,Mobile Consulting,2023-04-02,Enterprise,US,marketing_agency,paid_ads,active,enterprise_pilot
+851,Gamma Data,2023-01-03,Basic,US,healthcare,organic_search,churned,price_sensitive
+852,Swift Enterprises,2023-04-01,Basic,EU,healthcare,organic_search,churned,seasonal_business
+853,Nova Partners,2023-02-16,Basic,US,ecommerce,direct,active,failed_adoption
+854,Swift,2023-05-01,Enterprise,US,manufacturing,paid_ads,active,steady_grower
+855,Cyber LLC,2023-04-21,Pro,US,financial_services,direct,churned,seasonal_business
+856,Prime Works,2023-02-18,Enterprise,US,manufacturing,partner,active,steady_grower
+857,Hyper Analytics,2023-05-14,Enterprise,US,saas_tech,partner,active,steady_grower
+858,Mega,2023-01-01,Enterprise,US,marketing_agency,paid_ads,active,enterprise_pilot
+859,Beta,2023-04-06,Basic,US,healthcare,paid_ads,churned,seasonal_business
+860,Alpha Dynamics,2023-03-24,Basic,US,manufacturing,partner,churned,failed_adoption
+861,Prime Inc,2023-05-26,Enterprise,US,financial_services,paid_ads,active,seasonal_business
+862,Super,2023-03-22,Basic,US,healthcare,referral,active,enterprise_pilot
+863,Cloud Works,2023-05-22,Enterprise,US,ecommerce,partner,churned,enterprise_pilot
+864,Global,2023-02-19,Basic,US,marketing_agency,direct,churned,failed_adoption
+865,Data Studio,2023-05-14,Enterprise,EU,marketing_agency,partner,churned,seasonal_business
+866,Global LLC,2023-04-20,Enterprise,EU,saas_tech,referral,active,enterprise_pilot
+867,Delta Group,2023-03-13,Enterprise,EU,financial_services,referral,active,enterprise_pilot
+868,Ultra Insights,2023-05-07,Enterprise,EU,ecommerce,referral,active,steady_grower
+869,Agile Intelligence,2023-05-04,Enterprise,US,marketing_agency,organic_search,churned,steady_grower
+870,Rapid Enterprises,2023-01-10,Enterprise,EU,marketing_agency,direct,churned,price_sensitive
+871,Nova Ltd,2023-04-26,Enterprise,US,saas_tech,organic_search,active,steady_grower
+872,Summit,2023-02-26,Enterprise,US,other,referral,active,steady_grower
+873,Auto,2023-06-01,Enterprise,EU,healthcare,paid_ads,active,steady_grower
+874,Web Group,2023-04-01,Enterprise,US,saas_tech,direct,active,steady_grower
+875,Ultra Services,2023-01-01,Enterprise,EU,other,referral,active,enterprise_pilot
+876,Ultra Associates,2023-06-02,Enterprise,US,ecommerce,partner,active,price_sensitive
+877,Cloud,2023-01-18,Enterprise,US,other,referral,churned,seasonal_business
+878,Swift,2023-03-04,Enterprise,EU,saas_tech,organic_search,active,steady_grower
+879,Alpha,2023-05-06,Basic,EU,financial_services,paid_ads,churned,failed_adoption
+880,Cloud Works,2023-04-09,Pro,US,financial_services,paid_ads,churned,steady_grower
+881,Web,2023-04-20,Basic,EU,saas_tech,direct,churned,price_sensitive
+882,Alpha Studio,2023-03-15,Basic,US,manufacturing,paid_ads,churned,seasonal_business
+883,Zenith Intelligence,2023-06-26,Enterprise,EU,ecommerce,organic_search,churned,seasonal_business
+884,Tech,2023-05-21,Enterprise,EU,ecommerce,organic_search,churned,seasonal_business
+885,Ultra,2023-02-28,Basic,US,saas_tech,organic_search,churned,failed_adoption
+886,Acme,2023-06-05,Enterprise,US,saas_tech,organic_search,active,steady_grower
+887,Meta Intelligence,2023-06-07,Enterprise,US,saas_tech,organic_search,active,steady_grower
+888,Vertex Group,2023-04-15,Enterprise,US,ecommerce,organic_search,active,steady_grower
+889,Mega Data,2023-01-02,Basic,EU,financial_services,organic_search,active,price_sensitive
+890,Mega Group,2023-02-27,Enterprise,US,ecommerce,paid_ads,active,steady_grower
+891,Summit,2023-01-06,Enterprise,EU,manufacturing,direct,active,steady_grower
+892,Delta Data,2023-05-16,Pro,EU,financial_services,direct,churned,seasonal_business
+893,Agile,2023-04-11,Basic,US,financial_services,paid_ads,active,seasonal_business
+894,Nova Consulting,2023-02-28,Enterprise,US,financial_services,organic_search,active,seasonal_business
+895,Beta Partners,2023-04-17,Basic,US,saas_tech,direct,churned,price_sensitive
+896,Acme,2023-05-17,Enterprise,EU,marketing_agency,partner,churned,seasonal_business
+897,Hyper Ltd,2023-02-12,Basic,US,financial_services,organic_search,active,price_sensitive
+898,Global Studio,2023-04-03,Enterprise,EU,saas_tech,referral,churned,enterprise_pilot
+899,Ultra Ltd,2023-02-02,Basic,US,manufacturing,organic_search,active,price_sensitive
+900,Vertex,2023-01-17,Enterprise,EU,saas_tech,referral,active,enterprise_pilot
+901,Super,2023-04-02,Enterprise,EU,marketing_agency,paid_ads,active,enterprise_pilot
+902,Web Services,2023-04-12,Enterprise,US,saas_tech,content_marketing,churned,seasonal_business
+903,Apex LLC,2023-03-06,Enterprise,US,ecommerce,direct,active,price_sensitive
+904,Super Partners,2023-03-20,Enterprise,US,manufacturing,direct,churned,enterprise_pilot
+905,Fusion,2023-04-11,Enterprise,US,marketing_agency,organic_search,churned,seasonal_business
+906,Alpha,2023-02-28,Basic,US,other,referral,churned,price_sensitive
+907,Agile Associates,2023-06-26,Enterprise,US,ecommerce,organic_search,active,steady_grower
+908,Delta Enterprises,2023-03-13,Enterprise,EU,ecommerce,organic_search,churned,seasonal_business
+909,Meta Inc,2023-02-15,Pro,US,ecommerce,paid_ads,churned,seasonal_business
+910,Meta Associates,2023-03-25,Basic,US,saas_tech,organic_search,active,failed_adoption
+911,Global Corp,2023-06-09,Basic,EU,marketing_agency,direct,churned,failed_adoption
+912,Beta Data,2023-03-16,Enterprise,US,healthcare,partner,active,steady_grower
+913,Pioneer,2023-04-21,Pro,US,saas_tech,paid_ads,active,seasonal_business
+914,Tech Inc,2023-02-25,Basic,US,financial_services,organic_search,active,failed_adoption
+915,Prime,2023-03-23,Enterprise,EU,marketing_agency,direct,churned,seasonal_business
+916,Super Inc,2023-05-07,Basic,EU,ecommerce,paid_ads,active,seasonal_business
+917,Gamma Innovations,2023-05-13,Pro,US,healthcare,organic_search,active,steady_grower
+918,Beta LLC,2023-03-31,Enterprise,US,healthcare,organic_search,active,steady_grower
+919,Summit Dynamics,2023-02-19,Enterprise,EU,saas_tech,direct,active,steady_grower
+920,Quick,2023-04-05,Basic,US,other,referral,churned,seasonal_business
+921,Agile Ltd,2023-03-07,Basic,US,financial_services,organic_search,churned,price_sensitive
+922,Beta,2023-02-26,Basic,US,saas_tech,partner,churned,failed_adoption
+923,Web Technologies,2023-06-02,Enterprise,US,marketing_agency,organic_search,active,price_sensitive
+924,Fast Consulting,2023-01-25,Enterprise,EU,marketing_agency,partner,active,steady_grower
+925,Web Labs,2023-06-09,Basic,EU,ecommerce,paid_ads,churned,seasonal_business
+926,Cyber Data,2023-01-05,Enterprise,US,saas_tech,direct,churned,seasonal_business
+927,Cloud,2023-03-09,Enterprise,US,ecommerce,content_marketing,churned,enterprise_pilot
+928,Vertex Corp,2023-04-15,Enterprise,US,ecommerce,organic_search,churned,steady_grower
+929,Delta,2023-06-11,Basic,US,saas_tech,referral,churned,failed_adoption
+930,Pioneer,2023-06-10,Enterprise,US,marketing_agency,organic_search,churned,seasonal_business
+931,Cloud Corp,2023-03-03,Enterprise,US,ecommerce,referral,active,price_sensitive
+932,Nova,2023-01-02,Enterprise,US,saas_tech,paid_ads,active,steady_grower
+933,Web Analytics,2023-02-18,Enterprise,EU,saas_tech,paid_ads,active,enterprise_pilot
+934,Gamma Systems,2023-05-23,Pro,US,ecommerce,paid_ads,churned,seasonal_business
+935,Summit,2023-05-16,Basic,US,marketing_agency,partner,churned,failed_adoption
+936,Acme,2023-03-14,Enterprise,EU,manufacturing,partner,active,seasonal_business
+937,Apex,2023-02-18,Basic,EU,manufacturing,content_marketing,churned,failed_adoption
+938,Ultra Services,2023-05-10,Enterprise,EU,financial_services,paid_ads,churned,steady_grower
+939,Nova Innovations,2023-06-29,Enterprise,EU,marketing_agency,paid_ads,active,steady_grower
+940,Elite,2023-01-03,Basic,EU,saas_tech,organic_search,churned,price_sensitive
+941,Hyper Dynamics,2023-01-02,Enterprise,US,ecommerce,paid_ads,active,steady_grower
+942,Prime Corp,2023-05-05,Basic,US,saas_tech,organic_search,churned,seasonal_business
+943,Fast Analytics,2023-01-01,Enterprise,EU,ecommerce,direct,active,steady_grower
+944,Beta,2023-03-18,Basic,EU,saas_tech,direct,churned,seasonal_business
+945,Auto Ltd,2023-04-15,Enterprise,US,marketing_agency,partner,churned,price_sensitive
+946,Apex,2023-06-12,Pro,US,saas_tech,organic_search,active,seasonal_business
+947,Zenith,2023-06-13,Pro,US,ecommerce,organic_search,active,seasonal_business
+948,Alpha Systems,2023-05-21,Basic,US,saas_tech,organic_search,churned,seasonal_business
+949,Cloud Ventures,2023-03-22,Basic,US,manufacturing,partner,churned,enterprise_pilot
+950,Beta,2023-06-25,Enterprise,US,other,organic_search,churned,seasonal_business
+951,Quick Works,2023-02-18,Basic,US,healthcare,direct,churned,failed_adoption
+952,Quantum,2023-03-13,Basic,US,healthcare,organic_search,churned,failed_adoption
+953,Meta,2023-02-14,Basic,US,marketing_agency,referral,churned,failed_adoption
+954,Fast Data,2023-04-27,Pro,EU,financial_services,paid_ads,churned,seasonal_business
+955,Zenith Partners,2023-01-25,Pro,US,manufacturing,paid_ads,active,steady_grower
+956,Global Intelligence,2023-05-27,Basic,US,ecommerce,referral,churned,failed_adoption
+957,Nova Associates,2023-06-22,Enterprise,US,financial_services,organic_search,active,enterprise_pilot
+958,Zenith Studio,2023-06-28,Enterprise,EU,financial_services,organic_search,active,steady_grower
+959,Alpha Enterprises,2023-01-27,Pro,US,manufacturing,direct,churned,steady_grower
+960,Hyper Data,2023-05-22,Enterprise,US,ecommerce,organic_search,active,steady_grower
+961,Auto Insights,2023-04-15,Basic,EU,manufacturing,direct,churned,price_sensitive
+962,Gamma Enterprises,2023-04-09,Basic,US,ecommerce,direct,churned,price_sensitive
+963,Nexus,2023-02-28,Enterprise,US,saas_tech,partner,active,enterprise_pilot
+964,Summit Ltd,2023-06-23,Enterprise,US,saas_tech,content_marketing,churned,seasonal_business
+965,Auto,2023-05-19,Basic,US,ecommerce,referral,churned,steady_grower
+966,Global Group,2023-05-30,Enterprise,EU,ecommerce,organic_search,churned,enterprise_pilot
+967,Ultra,2023-02-26,Enterprise,US,manufacturing,referral,active,steady_grower
+968,Hyper Inc,2023-01-23,Enterprise,US,marketing_agency,referral,active,seasonal_business
+969,Data Solutions,2023-04-02,Pro,US,financial_services,organic_search,churned,seasonal_business
+970,Beta Corp,2023-04-21,Enterprise,US,marketing_agency,direct,active,steady_grower
+971,Cyber Consulting,2023-03-23,Enterprise,EU,marketing_agency,direct,churned,seasonal_business
+972,Meta,2023-06-13,Basic,US,healthcare,organic_search,active,steady_grower
+973,Mobile Innovations,2023-05-31,Enterprise,EU,saas_tech,referral,active,steady_grower
+974,Zenith Ltd,2023-01-02,Enterprise,US,saas_tech,paid_ads,churned,seasonal_business
+975,Auto,2023-01-05,Enterprise,US,saas_tech,direct,active,enterprise_pilot
+976,Rapid Insights,2023-04-16,Basic,US,saas_tech,direct,churned,steady_grower
+977,Data Hub,2023-03-18,Enterprise,US,manufacturing,organic_search,active,steady_grower
+978,Super Innovations,2023-01-02,Enterprise,US,other,referral,churned,enterprise_pilot
+979,Fusion,2023-06-21,Basic,US,financial_services,organic_search,active,price_sensitive
+980,Gamma,2023-03-15,Pro,US,ecommerce,organic_search,churned,steady_grower
+981,Delta,2023-04-27,Enterprise,EU,ecommerce,organic_search,active,price_sensitive
+982,Super Systems,2023-05-10,Enterprise,US,ecommerce,organic_search,active,price_sensitive
+983,Global Ltd,2023-04-08,Enterprise,US,financial_services,referral,active,steady_grower
+984,Nexus,2023-06-04,Enterprise,EU,ecommerce,paid_ads,active,steady_grower
+985,Cloud,2023-05-27,Enterprise,EU,ecommerce,partner,active,enterprise_pilot
+986,Hyper Group,2023-01-10,Enterprise,US,saas_tech,organic_search,churned,enterprise_pilot
+987,Auto Hub,2023-05-29,Enterprise,US,financial_services,organic_search,active,enterprise_pilot
+988,Fast Systems,2023-01-28,Basic,EU,ecommerce,direct,churned,price_sensitive
+989,Mega Enterprises,2023-03-16,Enterprise,US,healthcare,paid_ads,churned,seasonal_business
+990,Pioneer,2023-04-30,Basic,EU,financial_services,partner,active,price_sensitive
+991,Gamma Hub,2023-04-05,Basic,EU,saas_tech,paid_ads,churned,price_sensitive
+992,Summit,2023-02-05,Enterprise,EU,ecommerce,organic_search,active,price_sensitive
+993,Smart,2023-03-30,Enterprise,US,ecommerce,direct,active,steady_grower
+994,Rapid,2023-02-07,Enterprise,EU,manufacturing,direct,active,steady_grower
+995,Vertex Solutions,2023-04-01,Pro,US,saas_tech,direct,churned,seasonal_business
+996,Cloud Enterprises,2023-04-16,Basic,EU,healthcare,organic_search,churned,seasonal_business
+997,Fast Ventures,2023-03-15,Basic,US,healthcare,direct,active,price_sensitive
+998,Quantum,2023-05-09,Enterprise,EU,financial_services,paid_ads,churned,enterprise_pilot
+999,Auto,2023-03-27,Pro,US,financial_services,direct,churned,seasonal_business
+1000,Vertex Dynamics,2023-03-04,Pro,US,ecommerce,organic_search,active,seasonal_business

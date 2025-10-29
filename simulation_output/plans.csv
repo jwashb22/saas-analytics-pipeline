@@ -1,0 +1,4 @@
+id,name,monthly_price,api_call_limit,data_retention_days,max_projects,features
+1,Basic,99,10000,30,3,"['basic_analytics', 'dashboard', 'api_access']"
+2,Pro,299,50000,90,10,"['basic_analytics', 'dashboard', 'api_access', 'advanced_analytics', 'custom_reports']"
+3,Enterprise,999,200000,365,50,"['basic_analytics', 'dashboard', 'api_access', 'advanced_analytics', 'custom_reports', 'white_label', 'priority_support']"
