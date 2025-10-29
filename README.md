@@ -87,11 +87,10 @@ python test_quality.py      # Validate data
 ![Dashboard Screenshot](screenshots/dashboard.png)
 
 The dashboard shows:
-- Revenue by plan tier and customer type
+- Revenue by plan tier and industry 
 - Monthly revenue trends
-- Churn analysis
 - API usage patterns
-- Top customers
+
 
 ## Author
 
